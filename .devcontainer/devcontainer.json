@@ -7,11 +7,12 @@
         "terminal.integrated.shell.linux": "/bin/fish"
     },
     "extensions": [
-        "dendron.dendron-paste-image",
-        "equinusocio.vsc-material-theme",
-        "dendron.dendron-markdown-shortcuts",
-        "dendron.dendron-markdown-preview-enhanced",
-        "dendron.dendron-markdown-links"
-    ],
+		"dendron.dendron-paste-image",
+		"equinusocio.vsc-material-theme",
+		"dendron.dendron-markdown-shortcuts",
+		"dendron.dendron-markdown-preview-enhanced",
+		"dendron.dendron-markdown-links",
+		"yzhang.markdown-all-in-one"
+	],
     "remoteUser": "vscode"
 }
