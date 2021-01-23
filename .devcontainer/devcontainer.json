@@ -1,0 +1,17 @@
+{
+    "name": "Dendron container",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/fish"
+    },
+    "extensions": [
+        "dendron.dendron-paste-image",
+        "equinusocio.vsc-material-theme",
+        "dendron.dendron-markdown-shortcuts",
+        "dendron.dendron-markdown-preview-enhanced",
+        "dendron.dendron-markdown-links"
+    ],
+    "remoteUser": "vscode"
+}

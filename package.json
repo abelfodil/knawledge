@@ -1,0 +1,1 @@
+{"name":"dendron-site","version":"1.0.0","main":"index.js","license":"MIT","dependencies":{"@dendronhq/dendron-11ty":"^1.25.0","@dendronhq/dendron-cli":"^0.25.0"}}
