@@ -10,3 +10,4 @@ site:
     siteRootDir: docs
     usePrettyRefs: true
     title: Dendron
+    siteUrl: https://abelfodil.github.io/knawledge/
