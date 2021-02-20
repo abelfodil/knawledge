@@ -2,7 +2,7 @@
 id: 0df69d60-7f15-4d44-a6c3-0633cc195485
 title: Embededded
 desc: ''
-updated: 1613588337385
+updated: 1613833095246
 created: 1613579469220
 ---
 
@@ -23,3 +23,5 @@ created: 1613579469220
 - [Hackaday](https://hackaday.com/)
 
 - [Things Every Hacker Once Knew](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/)
+
+- [F' - A flight software and embedded systems framework](https://github.com/nasa/fprime)
