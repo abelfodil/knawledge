@@ -2,7 +2,7 @@
 id: 1a9a889a-4221-493c-9bcb-da759db447bb
 title: Cryptography
 desc: ''
-updated: 1613417921616
+updated: 1617420437832
 created: 1611590420232
 ---
 
@@ -19,3 +19,5 @@ created: 1611590420232
 - [Hiding Secrets in Android Apps](https://rammic.github.io/2015/07/28/hiding-secrets-in-android-apps/)
 
 - [Proof of stake](https://en.wikipedia.org/wiki/Proof_of_stake)
+
+- [Recovering a full PEM Private Key when half of it is redacted](https://blog.cryptohack.org/twitter-secrets)
