@@ -2,7 +2,7 @@
 id: 44335851-33c9-438b-8671-f65ed6444f6b
 title: Machine Learning
 desc: ''
-updated: 1613586840604
+updated: 1618845122766
 created: 1611457338241
 stub: false
 ---
@@ -20,3 +20,7 @@ stub: false
 ## Collections
 
 - [AI Experiments with Google](https://experiments.withgoogle.com/collection/ai)
+
+## Books
+
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
