@@ -2,7 +2,7 @@
 id: 0f6d665c-afb4-47f0-9112-de33f3d8773a
 title: Models
 desc: ''
-updated: 1618154035540
+updated: 1620059788431
 created: 1615915833807
 ---
 
@@ -23,3 +23,5 @@ created: 1615915833807
 - [T-Nut M3 screw](https://www.thingiverse.com/thing:1655599)
 
 - [Surgical Mask Strap Remix](https://www.thingiverse.com/thing:4249113)
+
+- [Wearable Chopsticks](https://www.thingiverse.com/thing:4804998)
