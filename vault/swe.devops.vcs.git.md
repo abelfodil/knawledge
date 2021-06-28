@@ -2,7 +2,7 @@
 id: ea61766b-a938-404c-b75e-a385ab8f7b6d
 title: Git
 desc: ''
-updated: 1618069191057
+updated: 1624917720336
 created: 1611440033104
 ---
 
@@ -27,6 +27,8 @@ created: 1611440033104
 - [Keep file in a Git repo, but don't track changes](https://stackoverflow.com/a/17410119)
 
 - [Removing sensitive data from a repo](https://docs.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository)
+
+- [Ignoring mass reformatting commits with git blame](https://akrabat.com/ignoring-revisions-with-git-blame/)
 
 # Tools
 
