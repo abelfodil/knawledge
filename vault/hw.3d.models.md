@@ -2,7 +2,7 @@
 id: 0f6d665c-afb4-47f0-9112-de33f3d8773a
 title: Models
 desc: ''
-updated: 1620059788431
+updated: 1626982557728
 created: 1615915833807
 ---
 
@@ -25,3 +25,5 @@ created: 1615915833807
 - [Surgical Mask Strap Remix](https://www.thingiverse.com/thing:4249113)
 
 - [Wearable Chopsticks](https://www.thingiverse.com/thing:4804998)
+
+- [USB Cable Holder](https://www.thingiverse.com/thing:3022893)
