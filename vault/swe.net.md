@@ -2,7 +2,7 @@
 id: 2d25ba38-3cc4-4d89-8c55-4bd6a067797d
 title: Networks
 desc: ''
-updated: 1616506466712
+updated: 1627040818238
 created: 1611589580411
 ---
 
@@ -19,3 +19,5 @@ created: 1611589580411
 - [Your guide to computer networks](https://www.homenethowto.com/)
 
 - [Ethernet and IP Networking 101 (Heavily Illustrated)](https://iximiuz.com/en/posts/computer-networking-101/)
+
+- [How do Mesh VPNs work? Writing my own VPN tool in Golang to find out](https://www.samlewis.me/2021/07/creating-mesh-vpn-tool-for-fun/)

@@ -2,13 +2,11 @@
 id: 70b3f190-bb17-48f9-8425-d7e67250551f
 title: C++
 desc: ''
-updated: 1611589276882
+updated: 1627041575647
 created: 1611450660339
 ---
 
 - [Top 25 C++ API design mistakes and how to avoid them](https://www.acodersjourney.com/top-25-cplusplus-api-design-mistakes-and-how-to-avoid-them/)
-
-- [CXX — safe interop between Rust and C++](https://cxx.rs/)
 
 - [lvalues, rvalues, glvalues, prvalues, xvalues, help!](https://blog.knatten.org/2018/03/09/lvalues-rvalues-glvalues-prvalues-xvalues-help/)
 
