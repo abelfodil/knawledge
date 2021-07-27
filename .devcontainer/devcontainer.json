@@ -1,5 +1,5 @@
 {
-    "name": "Dendron container",
+    "name": "knawledge",
     "build": {
         "dockerfile": "Dockerfile"
     },
