@@ -2,7 +2,7 @@
 id: 69e8dec2-2f23-4518-b4e1-5ff99c14a174
 title: Algorithms
 desc: ''
-updated: 1611589234313
+updated: 1630865464336
 created: 1611449047469
 ---
 
@@ -35,3 +35,4 @@ created: 1611449047469
 
 - [EOMM: An Engagement Optimized Matchmaking Framework] (https://arxiv.org/pdf/1702.06820.pdf)
 
+- [My favorite papers](https://ordep.dev/posts/my-favorite-papers)
