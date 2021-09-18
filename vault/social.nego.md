@@ -1,5 +1,5 @@
 ---
-id: 7e1cc3e4-8202-4538-9f22-d06553f938fe
+id: NFjK3rTcAF3p1qKyqCWAi
 title: Negotiation
 desc: ''
 updated: 1611589215577

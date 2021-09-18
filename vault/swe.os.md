@@ -1,5 +1,5 @@
 ---
-id: ec9a4d3f-2343-4011-aafc-661824852c53
+id: ps4Tngu1gsxuwWM4d5EM5
 title: Operating systems
 desc: ''
 updated: 1613587358587
