@@ -1,4 +1,5 @@
 version: 1
+maxPreviewsCached: 10
 vaults:
     -
         fsPath: vault
@@ -11,6 +12,7 @@ lookupConfirmVaultOnCreate: false
 mermaid: true
 useKatex: true
 autoFoldFrontmatter: true
+usePrettyRefs: true
 dev:
     enablePreviewV2: true
 lookup:
@@ -34,5 +36,13 @@ site:
     usePrettyRefs: true
     title: Dendron
     siteUrl: 'https://abelfodil.github.io/knawledge/'
+    description: Personal knowledge space
+    siteLastModified: true
+    gh_edit_branch: main
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - vault
+            - dendron.templates
+            - vault
 initializeRemoteVaults: true
-dendronVersion: 0.56.0
