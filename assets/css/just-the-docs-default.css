@@ -535,7 +535,9 @@ hr {
 }
 @media (min-width: 66.5rem) {
   .main {
-    margin-left: calc( (100% - 1064px) / 2 + 264px );
+    margin-left: calc(
+      (100% - 1064px) / 2 + 264px
+    );
   }
 }
 
@@ -735,6 +737,17 @@ body {
 .main-content a {
   overflow: hidden;
   text-overflow: ellipsis;
+}
+@supports not (-ms-high-contrast: none) {
+  .main-content .color-tag::before {
+    content: " ";
+    display: inline-block;
+    width: 0.8rem;
+    height: 0.8rem;
+    border: 1px solid #5c5962;
+    margin: auto 0.2rem;
+    background-color: var(--tag-color);
+  }
 }
 .main-content ul,
 .main-content ol {
@@ -8609,16 +8622,18 @@ iframe {
   position: absolute;
   width: 100%;
   margin-left: 0px;
-  height: 36px;
+  height: 0px;
   z-index: 50;
+  pointer-events: none;
 }
 .portal-container .portal-parent .portal-parent-fader-bottom {
   position: absolute;
   width: 100%;
   bottom: 6px;
   margin-left: 0px;
-  height: 36px;
+  height: 0px;
   z-index: 50;
+  pointer-events: none;
 }
 .portal-container .portal-parent .portal-parent-text {
   padding: 0.75;
