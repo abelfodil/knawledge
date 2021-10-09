@@ -2,7 +2,7 @@
 id: qqlBYG88Qf6mD70ECiHmb
 title: Python
 desc: ''
-updated: 1611589284011
+updated: 1633806465955
 created: 1611453559958
 ---
 
@@ -10,3 +10,4 @@ created: 1611453559958
 
 - [SymPy](https://www.sympy.org)
 
+- [python-future](https://python-future.org/index.html)

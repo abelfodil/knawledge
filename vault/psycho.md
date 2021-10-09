@@ -2,7 +2,7 @@
 id: 86AO8vubg2fi9WmUYCKxe
 title: Psychology
 desc: ''
-updated: 1613247119538
+updated: 1633806792118
 created: 1611455128430
 ---
 
@@ -21,3 +21,5 @@ created: 1611455128430
 - Intrusive thought
 
 - Law of triviality
+
+- [Developer Burnout: Why It Happens and What We Can Do About It](https://codesubmit.io/blog/developer-burnout/)
