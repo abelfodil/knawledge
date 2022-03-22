@@ -22,6 +22,8 @@ created: 1611449047469
 
 - [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)
 
+- [The Arcane Algorithm Archive](https://www.algorithm-archive.org/)
+
 ## Courses
 
 - [Advanced Data Structures course](https://courses.csail.mit.edu/6.851/)
