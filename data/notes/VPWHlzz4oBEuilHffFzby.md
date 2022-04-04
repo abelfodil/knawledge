@@ -1,0 +1,23 @@
+
+- [Escaping VirtualBox 6.1: Part 1](https://secret.club/2021/01/14/vbox-escape.html)
+
+- [Creating a Rootkit to Learn C](https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit/)
+
+- [GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs](https://www.blackhat.com/us-18/briefings/schedule/#god-mode-unlocked---hardware-backdoors-in-x86-cpus-10194)
+
+- [The Absurdly Underestimated Dangers of CSV Injection](http://georgemauer.net/2017/10/07/csv-injection.html)
+
+- [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest): A collection of awesome penetration testing resources, tools and other shiny things 
+
+- [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w/videos)
+
+- [Cracking Windows 7 password](https://imgur.com/gallery/H8obU)
+
+- [How to Create a Virus Using the Assembly Language](https://cranklin.wordpress.com/2016/12/26/how-to-create-a-virus-using-the-assembly-language/)
+
+- [The Ultimate Hacking Cheat Sheet](https://xeushack.com/the-ultimate-hacking-cheat-sheet)
+
+- [DNS exfiltration of data: step-by-step simple guide](https://hinty.io/devforth/dns-exfiltration-of-data-step-by-step-simple-guide/)
+
+- [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)
+

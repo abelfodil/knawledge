@@ -1,0 +1,20 @@
+
+- [The case for a learned sorting algorithm](https://blog.acolyer.org/2020/10/19/the-case-for-a-learned-sorting-algorithm/)
+
+- [Notes on Optimal Transport](https://michielstock.github.io/posts/2017/2017-11-5-OptimalTransport/)
+
+## Deep learning
+
+- [Deep Learning papers reading roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+
+- [colah's blog](http://colah.github.io/)
+
+- [Caffe](http://caffe.berkeleyvision.org/)
+
+## Collections
+
+- [AI Experiments with Google](https://experiments.withgoogle.com/collection/ai)
+
+## Books
+
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
