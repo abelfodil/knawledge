@@ -15,8 +15,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - run: npm install
-      - run: npx dendron-cli buildSiteV2 --wsRoot .  --stage prod
+      - run: npm ci
+      - run: npx dendron publish export --target github --yes
 
       - uses: JamesIves/github-pages-deploy-action@3.7.1
         with:

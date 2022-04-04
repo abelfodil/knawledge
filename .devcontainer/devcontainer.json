@@ -4,10 +4,11 @@
         "dockerfile": "Dockerfile"
     },
     "extensions": [
-        "dendron.dendron",
-        "dendron.dendron-paste-image",
-        "dendron.dendron-markdown-shortcuts",
-        "redhat.vscode-yaml"
-    ],
+		"dendron.dendron",
+		"dendron.dendron-paste-image",
+		"dendron.dendron-markdown-shortcuts",
+		"redhat.vscode-yaml",
+		"ritwickdey.LiveServer"
+	],
     "remoteUser": "vscode"
 }
