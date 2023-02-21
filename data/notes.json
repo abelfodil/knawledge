@@ -9,8 +9,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1676948756200,
-      "created": 1676948756200,
+      "updated": 1676949858111,
+      "created": 1676949858111,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -67,7 +67,6 @@
       "desc": "",
       "updated": 1613587646346,
       "created": 1611457060960,
-      "stub": false,
       "custom": {
         "stub": false
       },
@@ -107,7 +106,6 @@
       "desc": "",
       "updated": 1616506573154,
       "created": 1611507722269,
-      "stub": true,
       "custom": {
         "stub": true
       },
@@ -190,7 +188,6 @@
       "desc": "",
       "updated": 1611453952587,
       "created": 1611453704212,
-      "stub": false,
       "custom": {
         "stub": false
       },
@@ -253,7 +250,6 @@
       "desc": "",
       "updated": 1611507823898,
       "created": 1611507722267,
-      "stub": true,
       "custom": {
         "stub": true
       },
@@ -553,7 +549,6 @@
       "desc": "",
       "updated": 1676948182149,
       "created": 1611454880865,
-      "stub": false,
       "custom": {
         "stub": false
       },
@@ -695,7 +690,6 @@
       "desc": "",
       "updated": 1616506536307,
       "created": 1611453594225,
-      "stub": false,
       "custom": {
         "stub": false
       },
@@ -876,7 +870,6 @@
       "desc": "",
       "updated": 1613587768855,
       "created": 1611507722260,
-      "stub": true,
       "custom": {
         "stub": true
       },
@@ -905,7 +898,6 @@
       "desc": "",
       "updated": 1676946304182,
       "created": 1618062804340,
-      "stub": true,
       "custom": {
         "stub": true
       },
@@ -1128,7 +1120,6 @@
       "desc": "",
       "updated": 1611507722252,
       "created": 1611507722252,
-      "stub": true,
       "custom": {
         "stub": true
       },
@@ -1471,7 +1462,6 @@
       "desc": "",
       "updated": 1611457389591,
       "created": 1611457338241,
-      "stub": false,
       "custom": {
         "stub": false
       },
@@ -1495,7 +1485,6 @@
       "desc": "",
       "updated": 1676948647668,
       "created": 1611457338241,
-      "stub": false,
       "custom": {
         "stub": false
       },
@@ -1511,7 +1500,7 @@
           "type": "header",
           "text": "Deep learning",
           "value": "deep-learning",
-          "line": 15,
+          "line": 14,
           "column": 0,
           "depth": 2
         },
@@ -1519,7 +1508,7 @@
           "type": "header",
           "text": "Collections",
           "value": "collections",
-          "line": 23,
+          "line": 22,
           "column": 0,
           "depth": 2
         },
@@ -1527,7 +1516,7 @@
           "type": "header",
           "text": "Books",
           "value": "books",
-          "line": 27,
+          "line": 26,
           "column": 0,
           "depth": 2
         }
@@ -1748,7 +1737,6 @@
       "desc": "",
       "updated": 1611507722238,
       "created": 1611507722238,
-      "stub": true,
       "custom": {
         "stub": true
       },
@@ -2003,7 +1991,6 @@
       "desc": "",
       "updated": 1617574395355,
       "created": 1611507722237,
-      "stub": true,
       "custom": {
         "stub": true
       },
@@ -2014,7 +2001,24 @@
       },
       "contentHash": "ec53fc2e89a45c067ac423d2e3783495",
       "links": [],
-      "anchors": {},
+      "anchors": {
+        "concepts": {
+          "type": "header",
+          "text": "Concepts",
+          "value": "concepts",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 12,
+          "column": 0,
+          "depth": 1
+        }
+      },
       "children": [
         "thcm8O4BKQxu8EvMsgW6w",
         "x10pC9efbgLnz8h2VvvD1"
@@ -2085,7 +2089,6 @@
       "desc": "",
       "updated": 1615915874811,
       "created": 1615915754612,
-      "stub": false,
       "custom": {
         "stub": false
       },
@@ -2234,7 +2237,6 @@
       "desc": "",
       "updated": 1611507722232,
       "created": 1611507722232,
-      "stub": true,
       "custom": {
         "stub": true
       },

@@ -25,7 +25,10 @@
       "enableMarker": false
     },
     "randomNote": {},
-    "copyNoteLink": {}
+    "copyNoteLink": {
+      "aliasMode": "title"
+    },
+    "templateHierarchy": "template"
   },
   "workspace": {
     "vaults": [
@@ -45,7 +48,8 @@
       "addBehavior": "asOwnDomain"
     },
     "graph": {
-      "zoomSpeed": 1
+      "zoomSpeed": 1,
+      "createStub": false
     },
     "enableAutoCreateOnDefinition": false,
     "enableXVaultWikiLink": false,
@@ -75,17 +79,21 @@
         "L": "low"
       },
       "todoIntegration": false,
-      "createTaskSelectionType": "selection2link"
+      "createTaskSelectionType": "selection2link",
+      "taskCompleteStatus": [
+        "done",
+        "x"
+      ]
     },
     "enableUserTags": true,
     "enableHashTags": true,
     "dendronVersion": "0.88.0",
-    "enableEditorDecorations": true
+    "enableEditorDecorations": true,
+    "enableFullHierarchyNoteTitle": false
   },
   "preview": {
     "enableFMTitle": true,
     "enableNoteTitleForLink": true,
-    "enableMermaid": true,
     "enablePrettyRefs": true,
     "enableKatex": true,
     "enableFrontmatterTags": true,
@@ -95,29 +103,14 @@
   "publishing": {
     "enableFMTitle": true,
     "enableNoteTitleForLink": true,
-    "enableMermaid": true,
     "enablePrettyRefs": true,
     "enableKatex": true,
     "copyAssets": true,
     "siteHierarchies": [
       "root"
     ],
-    "enableSiteLastModified": true,
-    "siteRootDir": "docs",
-    "assetsPrefix": "/knawledge",
-    "siteUrl": "https://abelfodil.github.io",
-    "enableFrontmatterTags": true,
-    "enableHashesForFMTags": false,
-    "enableRandomlyColoredTags": true,
-    "duplicateNoteBehavior": {
-      "action": "useVault",
-      "payload": [
-        "vault",
-        "dendron.templates",
-        "vault"
-      ]
-    },
     "writeStubs": false,
+    "siteRootDir": "docs",
     "seo": {
       "title": "Dendron",
       "description": "Personal knowledge space"
@@ -128,7 +121,23 @@
       "editBranch": "main",
       "editViewMode": "tree"
     },
+    "enableSiteLastModified": true,
+    "enableFrontmatterTags": true,
+    "enableHashesForFMTags": false,
+    "enableRandomlyColoredTags": true,
+    "enableTaskNotes": true,
     "enablePrettyLinks": true,
+    "searchMode": "lookup",
+    "assetsPrefix": "/knawledge",
+    "siteUrl": "https://abelfodil.github.io",
+    "duplicateNoteBehavior": {
+      "action": "useVault",
+      "payload": [
+        "vault",
+        "dendron.templates",
+        "vault"
+      ]
+    },
     "siteFaviconPath": "favicon.ico",
     "siteIndex": "root"
   }
