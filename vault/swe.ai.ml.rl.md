@@ -1,8 +1,8 @@
 ---
 id: v0EFgEyD6PL0jsTHeBkJa
-title: Reinforcement Learning
+title: RL
 desc: ''
-updated: 1611589229334
+updated: 1676946274375
 created: 1611457253257
 ---
 

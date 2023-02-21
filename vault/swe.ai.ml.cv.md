@@ -1,8 +1,8 @@
 ---
 id: 6JzT2AY8zvX9h5b2Jhvp6
-title: Computer Vision
+title: CV
 desc: ''
-updated: 1613587805107
+updated: 1676946258313
 created: 1611457176586
 ---
 

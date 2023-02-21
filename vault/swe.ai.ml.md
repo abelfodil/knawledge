@@ -2,7 +2,7 @@
 id: gY8NTCuVXsSR9bP5l8tfY
 title: Machine Learning
 desc: ''
-updated: 1618845122766
+updated: 1676948647668
 created: 1611457338241
 stub: false
 ---
@@ -10,6 +10,8 @@ stub: false
 - [The case for a learned sorting algorithm](https://blog.acolyer.org/2020/10/19/the-case-for-a-learned-sorting-algorithm/)
 
 - [Notes on Optimal Transport](https://michielstock.github.io/posts/2017/2017-11-5-OptimalTransport/)
+
+- [What is Few-Shot Learning? Methods & Applications in 2023](https://research.aimultiple.com/few-shot-learning/)
 
 ## Deep learning
 
