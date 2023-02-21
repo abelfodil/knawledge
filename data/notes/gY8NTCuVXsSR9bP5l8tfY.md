@@ -3,6 +3,8 @@
 
 - [Notes on Optimal Transport](https://michielstock.github.io/posts/2017/2017-11-5-OptimalTransport/)
 
+- [What is Few-Shot Learning? Methods & Applications in 2023](https://research.aimultiple.com/few-shot-learning/)
+
 ## Deep learning
 
 - [Deep Learning papers reading roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)

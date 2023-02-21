@@ -292,7 +292,7 @@
                     },
                     {
                       "key": "6JzT2AY8zvX9h5b2Jhvp6",
-                      "title": "Computer Vision",
+                      "title": "CV",
                       "icon": null,
                       "hasTitleNumberOutlined": false,
                       "vaultName": "vault",
@@ -307,6 +307,22 @@
                       "children": []
                     },
                     {
+                      "key": "dmkfvc9w8w76emytw0to37e",
+                      "title": "NLP",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "children": []
+                    },
+                    {
+                      "key": "v0EFgEyD6PL0jsTHeBkJa",
+                      "title": "RL",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "children": []
+                    },
+                    {
                       "key": "vTqby2nOGYXQq7cyJwkiw",
                       "title": "RNN",
                       "icon": null,
@@ -315,8 +331,8 @@
                       "children": []
                     },
                     {
-                      "key": "v0EFgEyD6PL0jsTHeBkJa",
-                      "title": "Reinforcement Learning",
+                      "key": "cw1h123um2n5vwwqrip6mut",
+                      "title": "Safety",
                       "icon": null,
                       "hasTitleNumberOutlined": false,
                       "vaultName": "vault",
@@ -448,7 +464,7 @@
                 },
                 {
                   "key": "bcecf1a9-0472-447c-aae4-3eee96970707",
-                  "title": "Version control system",
+                  "title": "VCS",
                   "icon": "plusOutlined",
                   "hasTitleNumberOutlined": false,
                   "vaultName": "vault",
@@ -548,7 +564,7 @@
             },
             {
               "key": "ps4Tngu1gsxuwWM4d5EM5",
-              "title": "Operating systems",
+              "title": "OS",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "vault",
@@ -598,6 +614,14 @@
             {
               "key": "Nz7p15DcLloUHh0SGSxlE",
               "title": "Performance",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "rw00fozywke2pbqzulflhuk",
+              "title": "Quantum Computing",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "vault",
@@ -769,6 +793,7 @@
     "VPWHlzz4oBEuilHffFzby": "e8f19c53-17df-4285-bd90-f21dae6b08f9",
     "95SXR0D6ko0nyGB2CcaQI": "e8f19c53-17df-4285-bd90-f21dae6b08f9",
     "0ZGc8trmrN39rmTRT4bme": "e8f19c53-17df-4285-bd90-f21dae6b08f9",
+    "rw00fozywke2pbqzulflhuk": "n8BuZfJPxpKglyVZQRTjp",
     "Nz7p15DcLloUHh0SGSxlE": "n8BuZfJPxpKglyVZQRTjp",
     "ps4Tngu1gsxuwWM4d5EM5": "n8BuZfJPxpKglyVZQRTjp",
     "iXYe0yg4voJKRkiwFor1u": "ps4Tngu1gsxuwWM4d5EM5",
@@ -807,8 +832,10 @@
     "RBUoPDUmTae1ii4NplP8N": "n8BuZfJPxpKglyVZQRTjp",
     "e5PDXH4QeKlZLbeBNSO0o": "n8BuZfJPxpKglyVZQRTjp",
     "gY8NTCuVXsSR9bP5l8tfY": "e5PDXH4QeKlZLbeBNSO0o",
+    "cw1h123um2n5vwwqrip6mut": "gY8NTCuVXsSR9bP5l8tfY",
     "vTqby2nOGYXQq7cyJwkiw": "gY8NTCuVXsSR9bP5l8tfY",
     "v0EFgEyD6PL0jsTHeBkJa": "gY8NTCuVXsSR9bP5l8tfY",
+    "dmkfvc9w8w76emytw0to37e": "gY8NTCuVXsSR9bP5l8tfY",
     "vh3flsfGwBaw9tbrdAOCu": "gY8NTCuVXsSR9bP5l8tfY",
     "6JzT2AY8zvX9h5b2Jhvp6": "gY8NTCuVXsSR9bP5l8tfY",
     "PjlTLtT4BQ1Yh4fXqU8A6": "gY8NTCuVXsSR9bP5l8tfY",

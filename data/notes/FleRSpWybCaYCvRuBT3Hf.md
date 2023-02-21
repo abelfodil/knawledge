@@ -26,3 +26,5 @@
 - [Xorg multiseat](https://wiki.archlinux.org/index.php/xorg_multiseat)
 
 - [Linux tracing systems & how they fit together](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
+
+- [Rust for Linux kernel development](https://www.jackos.io/rust-kernel/rust-for-linux.html)

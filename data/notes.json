@@ -9,8 +9,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1649038489538,
-      "created": 1649038489538,
+      "updated": 1676948756200,
+      "created": 1676948756200,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -93,6 +93,7 @@
         "1jJuES40PJF5ZYLpKAnya",
         "ps4Tngu1gsxuwWM4d5EM5",
         "Nz7p15DcLloUHh0SGSxlE",
+        "rw00fozywke2pbqzulflhuk",
         "e8f19c53-17df-4285-bd90-f21dae6b08f9",
         "1GOPQrDeMOne8LQWXKZh8",
         "42c0a9cc-03b3-43e1-8f4f-0a91ffeb9e53"
@@ -436,7 +437,7 @@
       "id": "RM9pXGYZ4EUKX0MpAeAPl",
       "title": "Piracy",
       "desc": "",
-      "updated": 1613588083161,
+      "updated": 1676946841112,
       "created": 1613588068676,
       "custom": {},
       "fname": "swe.security.piracy",
@@ -444,7 +445,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "98f943de221dd661030e188fe410181b",
+      "contentHash": "aa08d380ec5fc6c1e4e982e362a1ae11",
       "links": [],
       "anchors": {},
       "children": [],
@@ -474,7 +475,7 @@
       "id": "95SXR0D6ko0nyGB2CcaQI",
       "title": "Network",
       "desc": "",
-      "updated": 1611697452584,
+      "updated": 1676947446769,
       "created": 1611590696355,
       "custom": {},
       "fname": "swe.security.net",
@@ -482,7 +483,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "42adc971c195c0bd351ad9edb3c56d69",
+      "contentHash": "46bbdd56ead308bbd7a9d8b242f25049",
       "links": [],
       "anchors": {},
       "children": [],
@@ -508,6 +509,25 @@
       "parent": "e8f19c53-17df-4285-bd90-f21dae6b08f9",
       "data": {}
     },
+    "rw00fozywke2pbqzulflhuk": {
+      "id": "rw00fozywke2pbqzulflhuk",
+      "title": "Quantum Computing",
+      "desc": "",
+      "updated": 1676948589136,
+      "created": 1676948566063,
+      "custom": {},
+      "fname": "swe.quantum",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "2e33f4272ec9a0195a8270b8d39c2cc2",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "n8BuZfJPxpKglyVZQRTjp",
+      "data": {}
+    },
     "Nz7p15DcLloUHh0SGSxlE": {
       "id": "Nz7p15DcLloUHh0SGSxlE",
       "title": "Performance",
@@ -529,9 +549,9 @@
     },
     "ps4Tngu1gsxuwWM4d5EM5": {
       "id": "ps4Tngu1gsxuwWM4d5EM5",
-      "title": "Operating systems",
+      "title": "OS",
       "desc": "",
-      "updated": 1613587358587,
+      "updated": 1676948182149,
       "created": 1611454880865,
       "stub": false,
       "custom": {
@@ -542,7 +562,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "b1cb6cf99045d51f5dc3752629865c8f",
+      "contentHash": "15964a99248bd82dbf474db3a0156d54",
       "links": [],
       "anchors": {},
       "children": [
@@ -559,7 +579,7 @@
       "id": "iXYe0yg4voJKRkiwFor1u",
       "title": "Virtualization",
       "desc": "",
-      "updated": 1611589302625,
+      "updated": 1676947164343,
       "created": 1611451499380,
       "custom": {},
       "fname": "swe.os.virt",
@@ -567,7 +587,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "0de995c3cc35a33f1782f6b50ef6c680",
+      "contentHash": "5e3bbca39a832ec4d995b4824b50c032",
       "links": [],
       "anchors": {},
       "children": [],
@@ -597,7 +617,7 @@
       "id": "FleRSpWybCaYCvRuBT3Hf",
       "title": "Linux",
       "desc": "",
-      "updated": 1613579788989,
+      "updated": 1676947049590,
       "created": 1611451257447,
       "custom": {},
       "fname": "swe.os.linux",
@@ -605,7 +625,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "59060698a72dcc8fa86348746446acd2",
+      "contentHash": "2bbea6abbfaee58ea1cc4f37729cd8f7",
       "links": [],
       "anchors": {},
       "children": [],
@@ -635,7 +655,7 @@
       "id": "v1zeXqfXKScyRz1GgYeI9",
       "title": "Android",
       "desc": "",
-      "updated": 1633806526947,
+      "updated": 1676946103265,
       "created": 1633806516582,
       "custom": {},
       "fname": "swe.os.android",
@@ -643,7 +663,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "327c135b4f7cc888dd132a776cd54433",
+      "contentHash": "06ec2f41a77cf4499f79d539400c21b3",
       "links": [],
       "anchors": {},
       "children": [],
@@ -881,9 +901,9 @@
     },
     "bcecf1a9-0472-447c-aae4-3eee96970707": {
       "id": "bcecf1a9-0472-447c-aae4-3eee96970707",
-      "title": "Version control system",
+      "title": "VCS",
       "desc": "",
-      "updated": 1618062814212,
+      "updated": 1676946304182,
       "created": 1618062804340,
       "stub": true,
       "custom": {
@@ -894,7 +914,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "8cacf8928dc57fbce8e03ed04f3a19af",
+      "contentHash": "fe01b7b197241282c5881385b655ea46",
       "links": [],
       "anchors": {},
       "children": [
@@ -1473,7 +1493,7 @@
       "id": "gY8NTCuVXsSR9bP5l8tfY",
       "title": "Machine Learning",
       "desc": "",
-      "updated": 1618845122766,
+      "updated": 1676948647668,
       "created": 1611457338241,
       "stub": false,
       "custom": {
@@ -1484,14 +1504,14 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "596565711782092873e63c38f5176729",
+      "contentHash": "8a439fd1f6289b091b797e18322aa1a8",
       "links": [],
       "anchors": {
         "deep-learning": {
           "type": "header",
           "text": "Deep learning",
           "value": "deep-learning",
-          "line": 13,
+          "line": 15,
           "column": 0,
           "depth": 2
         },
@@ -1499,7 +1519,7 @@
           "type": "header",
           "text": "Collections",
           "value": "collections",
-          "line": 21,
+          "line": 23,
           "column": 0,
           "depth": 2
         },
@@ -1507,7 +1527,7 @@
           "type": "header",
           "text": "Books",
           "value": "books",
-          "line": 25,
+          "line": 27,
           "column": 0,
           "depth": 2
         }
@@ -1517,10 +1537,31 @@
         "PjlTLtT4BQ1Yh4fXqU8A6",
         "6JzT2AY8zvX9h5b2Jhvp6",
         "vh3flsfGwBaw9tbrdAOCu",
+        "dmkfvc9w8w76emytw0to37e",
         "v0EFgEyD6PL0jsTHeBkJa",
-        "vTqby2nOGYXQq7cyJwkiw"
+        "vTqby2nOGYXQq7cyJwkiw",
+        "cw1h123um2n5vwwqrip6mut"
       ],
       "parent": "e5PDXH4QeKlZLbeBNSO0o",
+      "data": {}
+    },
+    "cw1h123um2n5vwwqrip6mut": {
+      "id": "cw1h123um2n5vwwqrip6mut",
+      "title": "Safety",
+      "desc": "",
+      "updated": 1676946052841,
+      "created": 1676946033205,
+      "custom": {},
+      "fname": "swe.ai.ml.safety",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "ace17770f40a155033bf77a028ffa319",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "gY8NTCuVXsSR9bP5l8tfY",
       "data": {}
     },
     "vTqby2nOGYXQq7cyJwkiw": {
@@ -1544,9 +1585,9 @@
     },
     "v0EFgEyD6PL0jsTHeBkJa": {
       "id": "v0EFgEyD6PL0jsTHeBkJa",
-      "title": "Reinforcement Learning",
+      "title": "RL",
       "desc": "",
-      "updated": 1611589229334,
+      "updated": 1676946274375,
       "created": 1611457253257,
       "custom": {},
       "fname": "swe.ai.ml.rl",
@@ -1554,7 +1595,26 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "422f6b93f9bb595b6be388241e3fe007",
+      "contentHash": "58e2c4161892777265bc6e38e4b4e75b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "gY8NTCuVXsSR9bP5l8tfY",
+      "data": {}
+    },
+    "dmkfvc9w8w76emytw0to37e": {
+      "id": "dmkfvc9w8w76emytw0to37e",
+      "title": "NLP",
+      "desc": "",
+      "updated": 1676946360052,
+      "created": 1676946199981,
+      "custom": {},
+      "fname": "swe.ai.ml.nlp",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "3236ce52061a211352d074300bed089d",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1582,9 +1642,9 @@
     },
     "6JzT2AY8zvX9h5b2Jhvp6": {
       "id": "6JzT2AY8zvX9h5b2Jhvp6",
-      "title": "Computer Vision",
+      "title": "CV",
       "desc": "",
-      "updated": 1613587805107,
+      "updated": 1676946258313,
       "created": 1611457176586,
       "custom": {},
       "fname": "swe.ai.ml.cv",
@@ -1592,7 +1652,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "4e306455ba4f4f4414d849a1730c41c1",
+      "contentHash": "2b8f681a5db9d68c1afb20b866ce6187",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1603,7 +1663,7 @@
       "id": "PjlTLtT4BQ1Yh4fXqU8A6",
       "title": "CNN",
       "desc": "",
-      "updated": 1617739438901,
+      "updated": 1676946253233,
       "created": 1617738434385,
       "custom": {},
       "fname": "swe.ai.ml.cnn",
@@ -1611,7 +1671,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "0b55e4fc3e81adf242c85e033df657ff",
+      "contentHash": "0c868080c5fbf9481de4ec557c3f3e11",
       "links": [],
       "anchors": {
         "tutorials": {
