@@ -1,6 +1,6 @@
 ---
 id: b6i8mt5kqnwl9tf543uenwc
-title: Datasets
+title: Data
 desc: ''
 updated: 1679771949403
 created: 1679771904504
