@@ -269,14 +269,6 @@
               "children": []
             },
             {
-              "key": "0IQz8Lt3J1QtyTZx7qgrx",
-              "title": "Docker",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "vault",
-              "children": []
-            },
-            {
               "key": "Ir5tsD6zdhoUvePXvS6pe",
               "title": "Dotfiles",
               "icon": null,
@@ -309,14 +301,6 @@
               "children": []
             }
           ]
-        },
-        {
-          "key": "K0Ee5OQMxZCNvF7IQ6hsM",
-          "title": "Compilers",
-          "icon": null,
-          "hasTitleNumberOutlined": false,
-          "vaultName": "vault",
-          "children": []
         },
         {
           "key": "709de725-8a5e-47da-aa80-dd261137580d",
@@ -410,6 +394,14 @@
             {
               "key": "i5yikjbr9ahV4VaPIh93z",
               "title": "C",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "K0Ee5OQMxZCNvF7IQ6hsM",
+              "title": "Compilers",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "vault",
@@ -702,6 +694,14 @@
           ]
         },
         {
+          "key": "wous1ui42h48ru1h3jxef4d",
+          "title": "Systems engineering",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
           "key": "1GOPQrDeMOne8LQWXKZh8",
           "title": "Validation",
           "icon": null,
@@ -796,12 +796,10 @@
     "dda546f9-8b97-4ed2-a497-65a50eedcfbd": "n8BuZfJPxpKglyVZQRTjp",
     "cGwxVIuhHgbCXuHLnujdv": "dda546f9-8b97-4ed2-a497-65a50eedcfbd",
     "n1cRrP1Q1wPMaq5MZD9mI": "dda546f9-8b97-4ed2-a497-65a50eedcfbd",
-    "0IQz8Lt3J1QtyTZx7qgrx": "dda546f9-8b97-4ed2-a497-65a50eedcfbd",
     "Ir5tsD6zdhoUvePXvS6pe": "dda546f9-8b97-4ed2-a497-65a50eedcfbd",
     "LRch2CMabBB4il6yEazmv": "dda546f9-8b97-4ed2-a497-65a50eedcfbd",
     "E1dcjSaJl6Yug3a0nnzsv": "dda546f9-8b97-4ed2-a497-65a50eedcfbd",
     "XEP3SgbGzKKWAhS0U0n4v": "dda546f9-8b97-4ed2-a497-65a50eedcfbd",
-    "K0Ee5OQMxZCNvF7IQ6hsM": "n8BuZfJPxpKglyVZQRTjp",
     "709de725-8a5e-47da-aa80-dd261137580d": "n8BuZfJPxpKglyVZQRTjp",
     "owWhXhkxMZgBO9Km3ByXN": "709de725-8a5e-47da-aa80-dd261137580d",
     "R5pLJUANa1gSkVJ4JQaDT": "709de725-8a5e-47da-aa80-dd261137580d",
@@ -814,6 +812,7 @@
     "3matUQflmJB5acZ6gYJej": "n8BuZfJPxpKglyVZQRTjp",
     "n5VGRi6VEHGW551Gs7Exi": "n8BuZfJPxpKglyVZQRTjp",
     "i5yikjbr9ahV4VaPIh93z": "n5VGRi6VEHGW551Gs7Exi",
+    "K0Ee5OQMxZCNvF7IQ6hsM": "n5VGRi6VEHGW551Gs7Exi",
     "q3TbQZkA37YNM6szeHxgK": "n5VGRi6VEHGW551Gs7Exi",
     "3Mk77HRwzZEmcJqVPkfmD": "n5VGRi6VEHGW551Gs7Exi",
     "QLtiNMXxJIccQ3FQ2KuZy": "n5VGRi6VEHGW551Gs7Exi",
@@ -849,6 +848,7 @@
     "VxLDY4ORyREPmjsRZ1Qcg": "RE7wp8rG4ovxQ1WflAft3",
     "nWdqtila7JbCGW9ckMUfQ": "e8f19c53-17df-4285-bd90-f21dae6b08f9",
     "pc4taX7shiaP77XqCSHh6": "e8f19c53-17df-4285-bd90-f21dae6b08f9",
+    "wous1ui42h48ru1h3jxef4d": "n8BuZfJPxpKglyVZQRTjp",
     "1GOPQrDeMOne8LQWXKZh8": "n8BuZfJPxpKglyVZQRTjp",
     "5DZbYVRfx7EyHzSv59Gf7": "1GOPQrDeMOne8LQWXKZh8",
     "SRAdE4bMDHkjlf0H2i6ky": "1GOPQrDeMOne8LQWXKZh8",
@@ -891,12 +891,10 @@
     "dda546f9-8b97-4ed2-a497-65a50eedcfbd": "CLI",
     "cGwxVIuhHgbCXuHLnujdv": "cURL",
     "n1cRrP1Q1wPMaq5MZD9mI": "Documentation",
-    "0IQz8Lt3J1QtyTZx7qgrx": "Docker",
     "Ir5tsD6zdhoUvePXvS6pe": "Dotfiles",
     "LRch2CMabBB4il6yEazmv": "Filesystem",
     "E1dcjSaJl6Yug3a0nnzsv": "SSH",
     "XEP3SgbGzKKWAhS0U0n4v": "Text",
-    "K0Ee5OQMxZCNvF7IQ6hsM": "Compilers",
     "709de725-8a5e-47da-aa80-dd261137580d": "Devops",
     "owWhXhkxMZgBO9Km3ByXN": "Cloud",
     "R5pLJUANa1gSkVJ4JQaDT": "Docker",
@@ -909,6 +907,7 @@
     "3matUQflmJB5acZ6gYJej": "Game design",
     "n5VGRi6VEHGW551Gs7Exi": "Languages",
     "i5yikjbr9ahV4VaPIh93z": "C",
+    "K0Ee5OQMxZCNvF7IQ6hsM": "Compilers",
     "q3TbQZkA37YNM6szeHxgK": "C++",
     "3Mk77HRwzZEmcJqVPkfmD": "C#",
     "QLtiNMXxJIccQ3FQ2KuZy": "PHP",
@@ -944,6 +943,7 @@
     "VxLDY4ORyREPmjsRZ1Qcg": "Ghidra",
     "nWdqtila7JbCGW9ckMUfQ": "Tools",
     "pc4taX7shiaP77XqCSHh6": "Training",
+    "wous1ui42h48ru1h3jxef4d": "Systems engineering",
     "1GOPQrDeMOne8LQWXKZh8": "Validation",
     "5DZbYVRfx7EyHzSv59Gf7": "Formal verification",
     "SRAdE4bMDHkjlf0H2i6ky": "Fuzzing",

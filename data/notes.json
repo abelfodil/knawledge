@@ -9,8 +9,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1680473157967,
-      "created": 1680473157967,
+      "updated": 1680985249107,
+      "created": 1680985249107,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -83,7 +83,6 @@
         "RBUoPDUmTae1ii4NplP8N",
         "81QRkd0X0DrCXE0NYFEkO",
         "dda546f9-8b97-4ed2-a497-65a50eedcfbd",
-        "K0Ee5OQMxZCNvF7IQ6hsM",
         "709de725-8a5e-47da-aa80-dd261137580d",
         "pOz3hR8gZpto4npTIVUD4",
         "3matUQflmJB5acZ6gYJej",
@@ -94,6 +93,7 @@
         "Nz7p15DcLloUHh0SGSxlE",
         "rw00fozywke2pbqzulflhuk",
         "e8f19c53-17df-4285-bd90-f21dae6b08f9",
+        "wous1ui42h48ru1h3jxef4d",
         "1GOPQrDeMOne8LQWXKZh8",
         "42c0a9cc-03b3-43e1-8f4f-0a91ffeb9e53"
       ],
@@ -242,6 +242,25 @@
       "anchors": {},
       "children": [],
       "parent": "1GOPQrDeMOne8LQWXKZh8",
+      "data": {}
+    },
+    "wous1ui42h48ru1h3jxef4d": {
+      "id": "wous1ui42h48ru1h3jxef4d",
+      "title": "Systems engineering",
+      "desc": "",
+      "updated": 1680984551764,
+      "created": 1680984530719,
+      "custom": {},
+      "fname": "swe.syseng",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b85a240d199f8c7b6385042f5d8dd2d2",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "n8BuZfJPxpKglyVZQRTjp",
       "data": {}
     },
     "e8f19c53-17df-4285-bd90-f21dae6b08f9": {
@@ -968,6 +987,7 @@
       "anchors": {},
       "children": [
         "i5yikjbr9ahV4VaPIh93z",
+        "K0Ee5OQMxZCNvF7IQ6hsM",
         "q3TbQZkA37YNM6szeHxgK",
         "3Mk77HRwzZEmcJqVPkfmD",
         "QLtiNMXxJIccQ3FQ2KuZy",
@@ -1068,6 +1088,50 @@
       "contentHash": "76360d9e4bce7899e5048bec4f65cf50",
       "links": [],
       "anchors": {},
+      "children": [],
+      "parent": "n5VGRi6VEHGW551Gs7Exi",
+      "data": {}
+    },
+    "K0Ee5OQMxZCNvF7IQ6hsM": {
+      "id": "K0Ee5OQMxZCNvF7IQ6hsM",
+      "title": "Compilers",
+      "desc": "",
+      "updated": 1613586230650,
+      "created": 1611453066997,
+      "custom": {},
+      "fname": "swe.lang.compilers",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "d6a998415959b8d4ffaf2733b5d5e9c4",
+      "links": [],
+      "anchors": {
+        "frontend": {
+          "type": "header",
+          "text": "Frontend",
+          "value": "frontend",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "optimization": {
+          "type": "header",
+          "text": "Optimization",
+          "value": "optimization",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        }
+      },
       "children": [],
       "parent": "n5VGRi6VEHGW551Gs7Exi",
       "data": {}
@@ -1335,50 +1399,6 @@
       "parent": "709de725-8a5e-47da-aa80-dd261137580d",
       "data": {}
     },
-    "K0Ee5OQMxZCNvF7IQ6hsM": {
-      "id": "K0Ee5OQMxZCNvF7IQ6hsM",
-      "title": "Compilers",
-      "desc": "",
-      "updated": 1613586230650,
-      "created": 1611453066997,
-      "custom": {},
-      "fname": "swe.compilers",
-      "type": "note",
-      "vault": {
-        "fsPath": "vault"
-      },
-      "contentHash": "d6a998415959b8d4ffaf2733b5d5e9c4",
-      "links": [],
-      "anchors": {
-        "frontend": {
-          "type": "header",
-          "text": "Frontend",
-          "value": "frontend",
-          "line": 8,
-          "column": 0,
-          "depth": 2
-        },
-        "optimization": {
-          "type": "header",
-          "text": "Optimization",
-          "value": "optimization",
-          "line": 14,
-          "column": 0,
-          "depth": 2
-        },
-        "tools": {
-          "type": "header",
-          "text": "Tools",
-          "value": "tools",
-          "line": 22,
-          "column": 0,
-          "depth": 2
-        }
-      },
-      "children": [],
-      "parent": "n8BuZfJPxpKglyVZQRTjp",
-      "data": {}
-    },
     "dda546f9-8b97-4ed2-a497-65a50eedcfbd": {
       "id": "dda546f9-8b97-4ed2-a497-65a50eedcfbd",
       "title": "CLI",
@@ -1399,7 +1419,6 @@
       "children": [
         "cGwxVIuhHgbCXuHLnujdv",
         "n1cRrP1Q1wPMaq5MZD9mI",
-        "0IQz8Lt3J1QtyTZx7qgrx",
         "Ir5tsD6zdhoUvePXvS6pe",
         "LRch2CMabBB4il6yEazmv",
         "E1dcjSaJl6Yug3a0nnzsv",
@@ -1538,42 +1557,6 @@
       "contentHash": "e0faa8b1bd31845a1aa1689bde3072ce",
       "links": [],
       "anchors": {},
-      "children": [],
-      "parent": "dda546f9-8b97-4ed2-a497-65a50eedcfbd",
-      "data": {}
-    },
-    "0IQz8Lt3J1QtyTZx7qgrx": {
-      "id": "0IQz8Lt3J1QtyTZx7qgrx",
-      "title": "Docker",
-      "desc": "",
-      "updated": 1611589247528,
-      "created": 1611441053901,
-      "custom": {},
-      "fname": "swe.cli.docker",
-      "type": "note",
-      "vault": {
-        "fsPath": "vault"
-      },
-      "contentHash": "035382c713469c7f09791dee7935badb",
-      "links": [],
-      "anchors": {
-        "docker-swarm": {
-          "type": "header",
-          "text": "Docker Swarm",
-          "value": "docker-swarm",
-          "line": 8,
-          "column": 0,
-          "depth": 2
-        },
-        "managing-nodes": {
-          "type": "header",
-          "text": "Managing nodes",
-          "value": "managing-nodes",
-          "line": 10,
-          "column": 0,
-          "depth": 3
-        }
-      },
       "children": [],
       "parent": "dda546f9-8b97-4ed2-a497-65a50eedcfbd",
       "data": {}
