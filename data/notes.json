@@ -9,8 +9,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1680985249107,
-      "created": 1680985249107,
+      "updated": 1681063403310,
+      "created": 1681063403310,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -755,9 +755,29 @@
         "x32ytfeij9rl40rd8dmgsqg",
         "v0EFgEyD6PL0jsTHeBkJa",
         "vTqby2nOGYXQq7cyJwkiw",
-        "cw1h123um2n5vwwqrip6mut"
+        "cw1h123um2n5vwwqrip6mut",
+        "xjebwi7m0zibp0hizzbs067"
       ],
       "parent": "n8BuZfJPxpKglyVZQRTjp",
+      "data": {}
+    },
+    "xjebwi7m0zibp0hizzbs067": {
+      "id": "xjebwi7m0zibp0hizzbs067",
+      "title": "Tools",
+      "desc": "",
+      "updated": 1681060270960,
+      "created": 1680985593185,
+      "custom": {},
+      "fname": "swe.ml.tools",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "c90454a1025c971f9e7b1c35a50c599c",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "gY8NTCuVXsSR9bP5l8tfY",
       "data": {}
     },
     "cw1h123um2n5vwwqrip6mut": {
@@ -1961,7 +1981,7 @@
       "id": "17fa11da-88a2-484e-8622-5fde8a627288",
       "title": "Legal",
       "desc": "",
-      "updated": 1617574395355,
+      "updated": 1680986310682,
       "created": 1611507722237,
       "custom": {
         "stub": true
@@ -1971,7 +1991,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "ec53fc2e89a45c067ac423d2e3783495",
+      "contentHash": "cf2b8441708b7fe384482c3bf4aba2bd",
       "links": [],
       "anchors": {
         "concepts": {
@@ -1979,14 +1999,6 @@
           "text": "Concepts",
           "value": "concepts",
           "line": 8,
-          "column": 0,
-          "depth": 1
-        },
-        "tools": {
-          "type": "header",
-          "text": "Tools",
-          "value": "tools",
-          "line": 12,
           "column": 0,
           "depth": 1
         }
