@@ -47,6 +47,8 @@
 
 - [Music Transformer: Generating Music with Long-Term Structure](https://magenta.tensorflow.org/music-transformer)
 
+- [LLaMA: Open and Efficient Foundation Language Models](https://github.com/facebookresearch/llama)
+
 ## Frameworks
 
 - [Caffe](http://caffe.berkeleyvision.org/)
