@@ -2,7 +2,7 @@
 id: gY8NTCuVXsSR9bP5l8tfY
 title: Machine Learning
 desc: ''
-updated: 1681073571076
+updated: 1681074644863
 created: 1611457338241
 stub: false
 ---
@@ -10,6 +10,8 @@ stub: false
 ## Courses
 
 - [Neural networks class - Université de Sherbrooke](https://youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+
+- [Reinforcement Learning](https://youtube.com/playlist?list=PLImtCgowF_ES_JdF_UcM60EXTcGZg67Ua)
 
 - [Convolution Neural Networks - EXPLAINED](https://www.youtube.com/watch?v=m8pOnJxOcqY)
 
