@@ -2,7 +2,7 @@
 id: gY8NTCuVXsSR9bP5l8tfY
 title: Machine Learning
 desc: ''
-updated: 1681073080371
+updated: 1681073571076
 created: 1611457338241
 stub: false
 ---
@@ -12,6 +12,8 @@ stub: false
 - [Neural networks class - Université de Sherbrooke](https://youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 
 - [Convolution Neural Networks - EXPLAINED](https://www.youtube.com/watch?v=m8pOnJxOcqY)
+
+- [Transformers from scratch](https://youtube.com/playlist?list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4)
 
 - [What is Teacher Forcing for Recurrent Neural Networks?](https://machinelearningmastery.com/teacher-forcing-for-recurrent-neural-networks/)
 
