@@ -23,6 +23,8 @@
 
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
+- [PaLM-E: An embodied multimodal language model](https://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html)
+
 ## Blogs
 
 - [colah's blog](http://colah.github.io/)

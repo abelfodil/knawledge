@@ -9,8 +9,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1681075780883,
-      "created": 1681075780883,
+      "updated": 1681076082927,
+      "created": 1681076082927,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -707,7 +707,7 @@
       "id": "gY8NTCuVXsSR9bP5l8tfY",
       "title": "Machine Learning",
       "desc": "",
-      "updated": 1681075534290,
+      "updated": 1681075871991,
       "created": 1611457338241,
       "custom": {
         "stub": false
@@ -717,7 +717,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "146ce356d02ad44d6a278468c3bdbd5d",
+      "contentHash": "00c4949893b0ae0cf90975714595df4c",
       "links": [],
       "anchors": {
         "courses": {
@@ -740,7 +740,7 @@
           "type": "header",
           "text": "Blogs",
           "value": "blogs",
-          "line": 32,
+          "line": 34,
           "column": 0,
           "depth": 2
         },
@@ -748,7 +748,7 @@
           "type": "header",
           "text": "Forums",
           "value": "forums",
-          "line": 36,
+          "line": 38,
           "column": 0,
           "depth": 2
         },
@@ -756,7 +756,7 @@
           "type": "header",
           "text": "Papers",
           "value": "papers",
-          "line": 40,
+          "line": 42,
           "column": 0,
           "depth": 2
         },
@@ -764,7 +764,7 @@
           "type": "header",
           "text": "Frameworks",
           "value": "frameworks",
-          "line": 58,
+          "line": 60,
           "column": 0,
           "depth": 2
         },
@@ -772,7 +772,7 @@
           "type": "header",
           "text": "Collections",
           "value": "collections",
-          "line": 62,
+          "line": 64,
           "column": 0,
           "depth": 2
         },
@@ -780,7 +780,7 @@
           "type": "header",
           "text": "Books",
           "value": "books",
-          "line": 66,
+          "line": 68,
           "column": 0,
           "depth": 2
         }
