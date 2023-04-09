@@ -9,8 +9,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1681063403310,
-      "created": 1681063403310,
+      "updated": 1681073354080,
+      "created": 1681073354080,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -65,7 +65,7 @@
       "id": "n8BuZfJPxpKglyVZQRTjp",
       "title": "Software engineering",
       "desc": "",
-      "updated": 1613587646346,
+      "updated": 1681073213443,
       "created": 1611457060960,
       "custom": {
         "stub": false
@@ -75,7 +75,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "d2a96ebc75c6b825e7336b46b60c6f36",
+      "contentHash": "0d1e1474e10fa9ad90dd1560ce9ceff2",
       "links": [],
       "anchors": {},
       "children": [
@@ -707,7 +707,7 @@
       "id": "gY8NTCuVXsSR9bP5l8tfY",
       "title": "Machine Learning",
       "desc": "",
-      "updated": 1676948647668,
+      "updated": 1681073080371,
       "created": 1611457338241,
       "custom": {
         "stub": false
@@ -717,14 +717,54 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "8a439fd1f6289b091b797e18322aa1a8",
+      "contentHash": "be53fbf8879265135b9977a31bb5b683",
       "links": [],
       "anchors": {
-        "deep-learning": {
+        "courses": {
           "type": "header",
-          "text": "Deep learning",
-          "value": "deep-learning",
-          "line": 14,
+          "text": "Courses",
+          "value": "courses",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "blogs": {
+          "type": "header",
+          "text": "Blogs",
+          "value": "blogs",
+          "line": 28,
+          "column": 0,
+          "depth": 2
+        },
+        "forums": {
+          "type": "header",
+          "text": "Forums",
+          "value": "forums",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "papers": {
+          "type": "header",
+          "text": "Papers",
+          "value": "papers",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        },
+        "frameworks": {
+          "type": "header",
+          "text": "Frameworks",
+          "value": "frameworks",
+          "line": 52,
           "column": 0,
           "depth": 2
         },
@@ -732,7 +772,7 @@
           "type": "header",
           "text": "Collections",
           "value": "collections",
-          "line": 22,
+          "line": 56,
           "column": 0,
           "depth": 2
         },
@@ -740,22 +780,14 @@
           "type": "header",
           "text": "Books",
           "value": "books",
-          "line": 26,
+          "line": 60,
           "column": 0,
           "depth": 2
         }
       },
       "children": [
-        "feNYTIQJ7IEQO0uqkaOt7",
-        "PjlTLtT4BQ1Yh4fXqU8A6",
-        "6JzT2AY8zvX9h5b2Jhvp6",
         "b6i8mt5kqnwl9tf543uenwc",
-        "vh3flsfGwBaw9tbrdAOCu",
-        "dmkfvc9w8w76emytw0to37e",
         "x32ytfeij9rl40rd8dmgsqg",
-        "v0EFgEyD6PL0jsTHeBkJa",
-        "vTqby2nOGYXQq7cyJwkiw",
-        "cw1h123um2n5vwwqrip6mut",
         "xjebwi7m0zibp0hizzbs067"
       ],
       "parent": "n8BuZfJPxpKglyVZQRTjp",
@@ -765,7 +797,7 @@
       "id": "xjebwi7m0zibp0hizzbs067",
       "title": "Tools",
       "desc": "",
-      "updated": 1681060270960,
+      "updated": 1681072255430,
       "created": 1680985593185,
       "custom": {},
       "fname": "swe.ml.tools",
@@ -773,64 +805,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "c90454a1025c971f9e7b1c35a50c599c",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "gY8NTCuVXsSR9bP5l8tfY",
-      "data": {}
-    },
-    "cw1h123um2n5vwwqrip6mut": {
-      "id": "cw1h123um2n5vwwqrip6mut",
-      "title": "Safety",
-      "desc": "",
-      "updated": 1676946052841,
-      "created": 1676946033205,
-      "custom": {},
-      "fname": "swe.ml.safety",
-      "type": "note",
-      "vault": {
-        "fsPath": "vault"
-      },
-      "contentHash": "ace17770f40a155033bf77a028ffa319",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "gY8NTCuVXsSR9bP5l8tfY",
-      "data": {}
-    },
-    "vTqby2nOGYXQq7cyJwkiw": {
-      "id": "vTqby2nOGYXQq7cyJwkiw",
-      "title": "RNN",
-      "desc": "",
-      "updated": 1613585835940,
-      "created": 1611457121486,
-      "custom": {},
-      "fname": "swe.ml.rnn",
-      "type": "note",
-      "vault": {
-        "fsPath": "vault"
-      },
-      "contentHash": "cef411b21fc4adb2829422526dbb59e7",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "gY8NTCuVXsSR9bP5l8tfY",
-      "data": {}
-    },
-    "v0EFgEyD6PL0jsTHeBkJa": {
-      "id": "v0EFgEyD6PL0jsTHeBkJa",
-      "title": "RL",
-      "desc": "",
-      "updated": 1676946274375,
-      "created": 1611457253257,
-      "custom": {},
-      "fname": "swe.ml.rl",
-      "type": "note",
-      "vault": {
-        "fsPath": "vault"
-      },
-      "contentHash": "58e2c4161892777265bc6e38e4b4e75b",
+      "contentHash": "9ec4b8430caf617841495cf18732df46",
       "links": [],
       "anchors": {},
       "children": [],
@@ -856,44 +831,6 @@
       "parent": "gY8NTCuVXsSR9bP5l8tfY",
       "data": {}
     },
-    "dmkfvc9w8w76emytw0to37e": {
-      "id": "dmkfvc9w8w76emytw0to37e",
-      "title": "NLP",
-      "desc": "",
-      "updated": 1676946360052,
-      "created": 1676946199981,
-      "custom": {},
-      "fname": "swe.ml.nlp",
-      "type": "note",
-      "vault": {
-        "fsPath": "vault"
-      },
-      "contentHash": "3236ce52061a211352d074300bed089d",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "gY8NTCuVXsSR9bP5l8tfY",
-      "data": {}
-    },
-    "vh3flsfGwBaw9tbrdAOCu": {
-      "id": "vh3flsfGwBaw9tbrdAOCu",
-      "title": "GAN",
-      "desc": "",
-      "updated": 1611589223994,
-      "created": 1611457314469,
-      "custom": {},
-      "fname": "swe.ml.gan",
-      "type": "note",
-      "vault": {
-        "fsPath": "vault"
-      },
-      "contentHash": "4b6f46214dea17d6c80839ded4bfa3ff",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "gY8NTCuVXsSR9bP5l8tfY",
-      "data": {}
-    },
     "b6i8mt5kqnwl9tf543uenwc": {
       "id": "b6i8mt5kqnwl9tf543uenwc",
       "title": "Data",
@@ -909,81 +846,6 @@
       "contentHash": "b31652d7f41043822c96027bbb77f63a",
       "links": [],
       "anchors": {},
-      "children": [],
-      "parent": "gY8NTCuVXsSR9bP5l8tfY",
-      "data": {}
-    },
-    "6JzT2AY8zvX9h5b2Jhvp6": {
-      "id": "6JzT2AY8zvX9h5b2Jhvp6",
-      "title": "CV",
-      "desc": "",
-      "updated": 1676946258313,
-      "created": 1611457176586,
-      "custom": {},
-      "fname": "swe.ml.cv",
-      "type": "note",
-      "vault": {
-        "fsPath": "vault"
-      },
-      "contentHash": "2b8f681a5db9d68c1afb20b866ce6187",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "gY8NTCuVXsSR9bP5l8tfY",
-      "data": {}
-    },
-    "PjlTLtT4BQ1Yh4fXqU8A6": {
-      "id": "PjlTLtT4BQ1Yh4fXqU8A6",
-      "title": "CNN",
-      "desc": "",
-      "updated": 1676946253233,
-      "created": 1617738434385,
-      "custom": {},
-      "fname": "swe.ml.cnn",
-      "type": "note",
-      "vault": {
-        "fsPath": "vault"
-      },
-      "contentHash": "0c868080c5fbf9481de4ec557c3f3e11",
-      "links": [],
-      "anchors": {
-        "tutorials": {
-          "type": "header",
-          "text": "Tutorials",
-          "value": "tutorials",
-          "line": 8,
-          "column": 0,
-          "depth": 1
-        }
-      },
-      "children": [],
-      "parent": "gY8NTCuVXsSR9bP5l8tfY",
-      "data": {}
-    },
-    "feNYTIQJ7IEQO0uqkaOt7": {
-      "id": "feNYTIQJ7IEQO0uqkaOt7",
-      "title": "Audio",
-      "desc": "",
-      "updated": 1679771936873,
-      "created": 1617421693573,
-      "custom": {},
-      "fname": "swe.ml.audio",
-      "type": "note",
-      "vault": {
-        "fsPath": "vault"
-      },
-      "contentHash": "6bddb20e82649b4f46419110b353bf2a",
-      "links": [],
-      "anchors": {
-        "models": {
-          "type": "header",
-          "text": "Models",
-          "value": "models",
-          "line": 8,
-          "column": 0,
-          "depth": 1
-        }
-      },
       "children": [],
       "parent": "gY8NTCuVXsSR9bP5l8tfY",
       "data": {}
@@ -1021,7 +883,7 @@
       "id": "ujlAym2HXofxpwdvswQRx",
       "title": "Rust",
       "desc": "",
-      "updated": 1627041580371,
+      "updated": 1681072147615,
       "created": 1627041531737,
       "custom": {},
       "fname": "swe.lang.rust",
@@ -1029,7 +891,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "1be413422cf6e8e6cae22fc81194eddf",
+      "contentHash": "2f48f5fc77a25e63e329b1b27a7b4909",
       "links": [],
       "anchors": {},
       "children": [],

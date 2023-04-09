@@ -1,2 +1,0 @@
-
-- [QuillBot](https://quillbot.com/)

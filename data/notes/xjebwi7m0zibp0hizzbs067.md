@@ -3,6 +3,8 @@
 
 - [I Tried 200 AI Tools, These are the Best](https://www.youtube.com/watch?v=gpP_YEv_9jA)
 
+- [QuillBot](https://quillbot.com/)
+
 - [Caktus](https://www.caktus.ai/)
 
 - [Rewind](https://www.rewind.ai/)

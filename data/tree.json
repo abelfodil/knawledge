@@ -457,30 +457,6 @@
           "vaultName": "vault",
           "children": [
             {
-              "key": "feNYTIQJ7IEQO0uqkaOt7",
-              "title": "Audio",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "vault",
-              "children": []
-            },
-            {
-              "key": "PjlTLtT4BQ1Yh4fXqU8A6",
-              "title": "CNN",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "vault",
-              "children": []
-            },
-            {
-              "key": "6JzT2AY8zvX9h5b2Jhvp6",
-              "title": "CV",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "vault",
-              "children": []
-            },
-            {
               "key": "b6i8mt5kqnwl9tf543uenwc",
               "title": "Data",
               "icon": null,
@@ -489,48 +465,8 @@
               "children": []
             },
             {
-              "key": "vh3flsfGwBaw9tbrdAOCu",
-              "title": "GAN",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "vault",
-              "children": []
-            },
-            {
-              "key": "dmkfvc9w8w76emytw0to37e",
-              "title": "NLP",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "vault",
-              "children": []
-            },
-            {
               "key": "x32ytfeij9rl40rd8dmgsqg",
               "title": "Production",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "vault",
-              "children": []
-            },
-            {
-              "key": "v0EFgEyD6PL0jsTHeBkJa",
-              "title": "RL",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "vault",
-              "children": []
-            },
-            {
-              "key": "vTqby2nOGYXQq7cyJwkiw",
-              "title": "RNN",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "vault",
-              "children": []
-            },
-            {
-              "key": "cw1h123um2n5vwwqrip6mut",
-              "title": "Safety",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "vault",
@@ -827,16 +763,8 @@
     "qqlBYG88Qf6mD70ECiHmb": "n5VGRi6VEHGW551Gs7Exi",
     "ujlAym2HXofxpwdvswQRx": "n5VGRi6VEHGW551Gs7Exi",
     "gY8NTCuVXsSR9bP5l8tfY": "n8BuZfJPxpKglyVZQRTjp",
-    "feNYTIQJ7IEQO0uqkaOt7": "gY8NTCuVXsSR9bP5l8tfY",
-    "PjlTLtT4BQ1Yh4fXqU8A6": "gY8NTCuVXsSR9bP5l8tfY",
-    "6JzT2AY8zvX9h5b2Jhvp6": "gY8NTCuVXsSR9bP5l8tfY",
     "b6i8mt5kqnwl9tf543uenwc": "gY8NTCuVXsSR9bP5l8tfY",
-    "vh3flsfGwBaw9tbrdAOCu": "gY8NTCuVXsSR9bP5l8tfY",
-    "dmkfvc9w8w76emytw0to37e": "gY8NTCuVXsSR9bP5l8tfY",
     "x32ytfeij9rl40rd8dmgsqg": "gY8NTCuVXsSR9bP5l8tfY",
-    "v0EFgEyD6PL0jsTHeBkJa": "gY8NTCuVXsSR9bP5l8tfY",
-    "vTqby2nOGYXQq7cyJwkiw": "gY8NTCuVXsSR9bP5l8tfY",
-    "cw1h123um2n5vwwqrip6mut": "gY8NTCuVXsSR9bP5l8tfY",
     "xjebwi7m0zibp0hizzbs067": "gY8NTCuVXsSR9bP5l8tfY",
     "1jJuES40PJF5ZYLpKAnya": "n8BuZfJPxpKglyVZQRTjp",
     "ps4Tngu1gsxuwWM4d5EM5": "n8BuZfJPxpKglyVZQRTjp",
@@ -923,16 +851,8 @@
     "qqlBYG88Qf6mD70ECiHmb": "Python",
     "ujlAym2HXofxpwdvswQRx": "Rust",
     "gY8NTCuVXsSR9bP5l8tfY": "Machine Learning",
-    "feNYTIQJ7IEQO0uqkaOt7": "Audio",
-    "PjlTLtT4BQ1Yh4fXqU8A6": "CNN",
-    "6JzT2AY8zvX9h5b2Jhvp6": "CV",
     "b6i8mt5kqnwl9tf543uenwc": "Data",
-    "vh3flsfGwBaw9tbrdAOCu": "GAN",
-    "dmkfvc9w8w76emytw0to37e": "NLP",
     "x32ytfeij9rl40rd8dmgsqg": "Production",
-    "v0EFgEyD6PL0jsTHeBkJa": "RL",
-    "vTqby2nOGYXQq7cyJwkiw": "RNN",
-    "cw1h123um2n5vwwqrip6mut": "Safety",
     "xjebwi7m0zibp0hizzbs067": "Tools",
     "1jJuES40PJF5ZYLpKAnya": "Networks",
     "ps4Tngu1gsxuwWM4d5EM5": "OS",
