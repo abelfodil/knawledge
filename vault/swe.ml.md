@@ -2,7 +2,7 @@
 id: gY8NTCuVXsSR9bP5l8tfY
 title: Machine Learning
 desc: ''
-updated: 1681075534290
+updated: 1681075871991
 created: 1611457338241
 stub: false
 ---
@@ -30,6 +30,8 @@ stub: false
 - [Notes on Optimal Transport](https://michielstock.github.io/posts/2017/2017-11-5-OptimalTransport/)
 
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
+- [PaLM-E: An embodied multimodal language model](https://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html)
 
 ## Blogs
 
