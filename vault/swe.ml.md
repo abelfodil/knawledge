@@ -2,7 +2,7 @@
 id: gY8NTCuVXsSR9bP5l8tfY
 title: Machine Learning
 desc: ''
-updated: 1681074644863
+updated: 1681075534290
 created: 1611457338241
 stub: false
 ---
@@ -54,6 +54,8 @@ stub: false
 - [FullSubNet: A Full-Band and Sub-Band Fusion Model for Real-Time Single-Channel Speech Enhancement](https://arxiv.org/abs/2010.15508)
 
 - [Music Transformer: Generating Music with Long-Term Structure](https://magenta.tensorflow.org/music-transformer)
+
+- [LLaMA: Open and Efficient Foundation Language Models](https://github.com/facebookresearch/llama)
 
 ## Frameworks
 
