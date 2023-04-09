@@ -5,6 +5,8 @@
 
 - [Convolution Neural Networks - EXPLAINED](https://www.youtube.com/watch?v=m8pOnJxOcqY)
 
+- [Transformers from scratch](https://youtube.com/playlist?list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4)
+
 - [What is Teacher Forcing for Recurrent Neural Networks?](https://machinelearningmastery.com/teacher-forcing-for-recurrent-neural-networks/)
 
 - [What is Few-Shot Learning? Methods & Applications in 2023](https://research.aimultiple.com/few-shot-learning/)
