@@ -6,3 +6,5 @@
 - [Configuring Kubernetes Service as a UPnP Device](https://serverfault.com/q/934581)
 
 - [Using GitHub Container Registry with Kubernetes](https://dev.to/asizikov/using-github-container-registry-with-kubernetes-38fb)
+
+- Resource deletion does not delete the resource? [Remove resource finalizer](https://kubernetes.io/blog/2021/05/14/using-finalizers-to-control-deletion/#understanding-finalizers).

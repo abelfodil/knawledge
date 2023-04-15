@@ -9,8 +9,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1681076082927,
-      "created": 1681076082927,
+      "updated": 1681590278204,
+      "created": 1681590278204,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -1228,7 +1228,7 @@
       "id": "NLkX8ic2OdZ5vBOomHXWf",
       "title": "Kubernetes",
       "desc": "",
-      "updated": 1637505755969,
+      "updated": 1681590162088,
       "created": 1630865176202,
       "custom": {},
       "fname": "swe.devops.k8s",
@@ -1236,7 +1236,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "1e85eafe0d24648cbb2ca2816d24022f",
+      "contentHash": "7b5a903112e4350aa1e1cebe3c4cd2e2",
       "links": [],
       "anchors": {},
       "children": [],
