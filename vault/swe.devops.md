@@ -4,7 +4,6 @@ title: Devops
 desc: ''
 updated: 1613587768855
 created: 1611507722260
-stub: true
 ---
 
 - [Software Development Life Cycle](https://blog.codegiant.io/software-development-life-cycle-the-ultimate-guide-2020-153d17bb20fb)

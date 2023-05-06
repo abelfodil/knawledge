@@ -1,7 +1,7 @@
 ---
 id: SL9vKd2NwJTDISZsjo9v4
 title: Questions
-desc: 'QnA during my PhD'
+desc: QnA during my PhD
 updated: 1637448880517
 created: 1637442156378
 ---

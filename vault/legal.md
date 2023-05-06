@@ -4,7 +4,6 @@ title: Legal
 desc: ''
 updated: 1680986310682
 created: 1611507722237
-stub: true
 ---
 
 # Concepts

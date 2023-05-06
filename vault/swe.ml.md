@@ -4,7 +4,6 @@ title: Machine Learning
 desc: ''
 updated: 1681075871991
 created: 1611457338241
-stub: false
 ---
 
 ## Courses

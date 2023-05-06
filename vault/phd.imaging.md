@@ -1,7 +1,7 @@
 ---
 id: G11LgZWLNamuwW2f7AIID
 title: Imaging
-desc: 'List of imaging resources'
+desc: List of imaging resources
 updated: 1637443314194
 created: 1631978629829
 ---

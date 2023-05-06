@@ -4,7 +4,6 @@ title: OS
 desc: ''
 updated: 1676948182149
 created: 1611454880865
-stub: false
 ---
 
 - [History of Multics](https://www.multicians.org/history.html)

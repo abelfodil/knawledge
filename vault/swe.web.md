@@ -4,7 +4,6 @@ title: Web
 desc: ''
 updated: 1616506573154
 created: 1611507722269
-stub: true
 ---
 
 - [Jekyll](https://github.com/jekyll/jekyll): a blog-aware static site generator in Ruby

@@ -4,6 +4,5 @@ title: CLI
 desc: ''
 updated: 1611507722252
 created: 1611507722252
-stub: true
 ---
 
