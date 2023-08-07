@@ -2,7 +2,7 @@
 id: NLkX8ic2OdZ5vBOomHXWf
 title: Kubernetes
 desc: ''
-updated: 1681590162088
+updated: 1691418220518
 created: 1630865176202
 ---
 
@@ -14,4 +14,7 @@ created: 1630865176202
 
 - [Using GitHub Container Registry with Kubernetes](https://dev.to/asizikov/using-github-container-registry-with-kubernetes-38fb)
 
-- Resource deletion does not delete the resource? [Remove resource finalizer](https://kubernetes.io/blog/2021/05/14/using-finalizers-to-control-deletion/#understanding-finalizers).
+- Resource deletion does not delete the resource? 
+  - [Remove resource finalizer](https://kubernetes.io/blog/2021/05/14/using-finalizers-to-control-deletion/#understanding-finalizers)
+  - [Patch finalizer](https://stackoverflow.com/a/52012367)
+  - [Use `helm install --replace`](https://github.com/helm/helm/issues/2014#issuecomment-282061264)

@@ -2,7 +2,7 @@
 id: gY8NTCuVXsSR9bP5l8tfY
 title: Machine Learning
 desc: ''
-updated: 1681075871991
+updated: 1691419383386
 created: 1611457338241
 ---
 
@@ -22,6 +22,8 @@ created: 1611457338241
 
 - [Convolutions and Backpropagations](https://medium.com/@pavisj/convolutions-and-backpropagations-46026a8f5d2c)
 
+- [Learn Prompting: Your Guide to Communicating with Artificial Intelligence](https://learnprompting.org/)
+
 ## Articles
 
 - [The case for a learned sorting algorithm](https://blog.acolyer.org/2020/10/19/the-case-for-a-learned-sorting-algorithm/)
@@ -31,6 +33,8 @@ created: 1611457338241
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 - [PaLM-E: An embodied multimodal language model](https://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html)
+
+- [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
 
 ## Blogs
 
@@ -57,6 +61,14 @@ created: 1611457338241
 - [Music Transformer: Generating Music with Long-Term Structure](https://magenta.tensorflow.org/music-transformer)
 
 - [LLaMA: Open and Efficient Foundation Language Models](https://github.com/facebookresearch/llama)
+
+- [MusicLM: Generating Music From Text](https://google-research.github.io/seanet/musiclm/examples/)
+
+- [JARVIS, a system to connect LLMs with ML community](https://github.com/microsoft/JARVIS)
+
+- [Semantic reconstruction of continuous language from non-invasive brain recordings](https://www.biorxiv.org/content/10.1101/2022.09.29.509744v1.full)
+
+- [Closed-form continuous-time neural networks](https://www.nature.com/articles/s42256-022-00556-7)
 
 ## Frameworks
 
