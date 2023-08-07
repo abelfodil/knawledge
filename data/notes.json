@@ -9,8 +9,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1683345071378,
-      "created": 1683345071378,
+      "updated": 1691426738466,
+      "created": 1691426738466,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -331,7 +331,7 @@
       "id": "RE7wp8rG4ovxQ1WflAft3",
       "title": "Reverse engineering",
       "desc": "",
-      "updated": 1617579535053,
+      "updated": 1691418865554,
       "created": 1611589897956,
       "custom": {},
       "fname": "swe.security.reverse",
@@ -339,14 +339,22 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "de853a46c300c8ca9fc0a6238f278590",
+      "contentHash": "be295b293acaac996cb02b31de833899",
       "links": [],
       "anchors": {
+        "challenges": {
+          "type": "header",
+          "text": "Challenges",
+          "value": "challenges",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
         "posts": {
           "type": "header",
           "text": "Posts",
           "value": "posts",
-          "line": 8,
+          "line": 12,
           "column": 0,
           "depth": 1
         },
@@ -354,7 +362,7 @@
           "type": "header",
           "text": "Tutorials",
           "value": "tutorials",
-          "line": 18,
+          "line": 22,
           "column": 0,
           "depth": 1
         },
@@ -362,7 +370,7 @@
           "type": "header",
           "text": "Tools",
           "value": "tools",
-          "line": 22,
+          "line": 26,
           "column": 0,
           "depth": 1
         }
@@ -467,7 +475,7 @@
       "id": "VPWHlzz4oBEuilHffFzby",
       "title": "Penetration testing",
       "desc": "",
-      "updated": 1613417995410,
+      "updated": 1691419031162,
       "created": 1611590925386,
       "custom": {},
       "fname": "swe.security.pentest",
@@ -475,9 +483,26 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "9334a64208bb6680ce402bb15facccd4",
+      "contentHash": "f1967ab960283f2356ce9e1f075d0497",
       "links": [],
-      "anchors": {},
+      "anchors": {
+        "blogs": {
+          "type": "header",
+          "text": "Blogs",
+          "value": "blogs",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "databases": {
+          "type": "header",
+          "text": "Databases",
+          "value": "databases",
+          "line": 32,
+          "column": 0,
+          "depth": 1
+        }
+      },
       "children": [],
       "parent": "e8f19c53-17df-4285-bd90-f21dae6b08f9",
       "data": {}
@@ -701,7 +726,7 @@
       "id": "gY8NTCuVXsSR9bP5l8tfY",
       "title": "Machine Learning",
       "desc": "",
-      "updated": 1681075871991,
+      "updated": 1691419383386,
       "created": 1611457338241,
       "custom": {},
       "fname": "swe.ml",
@@ -709,7 +734,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "622f25a4980fbaf37d6e39b86aec5f5a",
+      "contentHash": "7f6342606a5b3f7fad0cf8af7f7f6c76",
       "links": [],
       "anchors": {
         "courses": {
@@ -724,7 +749,7 @@
           "type": "header",
           "text": "Articles",
           "value": "articles",
-          "line": 24,
+          "line": 26,
           "column": 0,
           "depth": 2
         },
@@ -732,7 +757,7 @@
           "type": "header",
           "text": "Blogs",
           "value": "blogs",
-          "line": 34,
+          "line": 38,
           "column": 0,
           "depth": 2
         },
@@ -740,7 +765,7 @@
           "type": "header",
           "text": "Forums",
           "value": "forums",
-          "line": 38,
+          "line": 42,
           "column": 0,
           "depth": 2
         },
@@ -748,7 +773,7 @@
           "type": "header",
           "text": "Papers",
           "value": "papers",
-          "line": 42,
+          "line": 46,
           "column": 0,
           "depth": 2
         },
@@ -756,7 +781,7 @@
           "type": "header",
           "text": "Frameworks",
           "value": "frameworks",
-          "line": 60,
+          "line": 72,
           "column": 0,
           "depth": 2
         },
@@ -764,7 +789,7 @@
           "type": "header",
           "text": "Collections",
           "value": "collections",
-          "line": 64,
+          "line": 76,
           "column": 0,
           "depth": 2
         },
@@ -772,7 +797,7 @@
           "type": "header",
           "text": "Books",
           "value": "books",
-          "line": 68,
+          "line": 80,
           "column": 0,
           "depth": 2
         }
@@ -780,9 +805,29 @@
       "children": [
         "b6i8mt5kqnwl9tf543uenwc",
         "x32ytfeij9rl40rd8dmgsqg",
-        "xjebwi7m0zibp0hizzbs067"
+        "xjebwi7m0zibp0hizzbs067",
+        "xbtvfw3qg1srb0bab9q73dx"
       ],
       "parent": "n8BuZfJPxpKglyVZQRTjp",
+      "data": {}
+    },
+    "xbtvfw3qg1srb0bab9q73dx": {
+      "id": "xbtvfw3qg1srb0bab9q73dx",
+      "title": "Training",
+      "desc": "",
+      "updated": 1691418319103,
+      "created": 1691418300754,
+      "custom": {},
+      "fname": "swe.ml.train",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "eb672f57561262a8376eddccc10b747b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "gY8NTCuVXsSR9bP5l8tfY",
       "data": {}
     },
     "xjebwi7m0zibp0hizzbs067": {
@@ -1214,7 +1259,7 @@
       "id": "NLkX8ic2OdZ5vBOomHXWf",
       "title": "Kubernetes",
       "desc": "",
-      "updated": 1681590162088,
+      "updated": 1691418220518,
       "created": 1630865176202,
       "custom": {},
       "fname": "swe.devops.k8s",
@@ -1222,7 +1267,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "7b5a903112e4350aa1e1cebe3c4cd2e2",
+      "contentHash": "11d4b86c4c7ded3a85bb7a2709c891e2",
       "links": [],
       "anchors": {},
       "children": [],

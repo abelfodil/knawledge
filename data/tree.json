@@ -479,6 +479,14 @@
               "hasTitleNumberOutlined": false,
               "vaultName": "vault",
               "children": []
+            },
+            {
+              "key": "xbtvfw3qg1srb0bab9q73dx",
+              "title": "Training",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
             }
           ]
         },
@@ -766,6 +774,7 @@
     "b6i8mt5kqnwl9tf543uenwc": "gY8NTCuVXsSR9bP5l8tfY",
     "x32ytfeij9rl40rd8dmgsqg": "gY8NTCuVXsSR9bP5l8tfY",
     "xjebwi7m0zibp0hizzbs067": "gY8NTCuVXsSR9bP5l8tfY",
+    "xbtvfw3qg1srb0bab9q73dx": "gY8NTCuVXsSR9bP5l8tfY",
     "1jJuES40PJF5ZYLpKAnya": "n8BuZfJPxpKglyVZQRTjp",
     "ps4Tngu1gsxuwWM4d5EM5": "n8BuZfJPxpKglyVZQRTjp",
     "v1zeXqfXKScyRz1GgYeI9": "ps4Tngu1gsxuwWM4d5EM5",
@@ -854,6 +863,7 @@
     "b6i8mt5kqnwl9tf543uenwc": "Data",
     "x32ytfeij9rl40rd8dmgsqg": "Production",
     "xjebwi7m0zibp0hizzbs067": "Tools",
+    "xbtvfw3qg1srb0bab9q73dx": "Training",
     "1jJuES40PJF5ZYLpKAnya": "Networks",
     "ps4Tngu1gsxuwWM4d5EM5": "OS",
     "v1zeXqfXKScyRz1GgYeI9": "Android",

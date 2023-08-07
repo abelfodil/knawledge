@@ -1,4 +1,6 @@
 
+# Blogs
+
 - [Escaping VirtualBox 6.1: Part 1](https://secret.club/2021/01/14/vbox-escape.html)
 
 - [Creating a Rootkit to Learn C](https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit/)
@@ -21,3 +23,8 @@
 
 - [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)
 
+# Databases
+
+- [Exploit Database](https://www.exploit-db.com/)
+
+- [DorkGPT](https://dorkgpt.com/)
