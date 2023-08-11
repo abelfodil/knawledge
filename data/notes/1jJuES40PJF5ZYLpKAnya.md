@@ -1,9 +1,15 @@
 
+## Tools
+
+- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)
+
+## Guides
+
 - [Understanding systemd-resolved, Split DNS, and VPN Configuration](https://blogs.gnome.org/mcatanzaro/2020/12/17/understanding-systemd-resolved-split-dns-and-vpn-configuration/)
 
 - [Network Programming](https://lowlvl.org/)
 
-- [Routr](https://github.com/fonoster/routr): Next-generation SIP Server
+- [Routr: The future of programmable SIP servers](https://github.com/fonoster/routr)
 
 - [IETF 105 Technology Deep Dive: How Network Interface Cards (NICs) Work Today](https://www.youtube.com/watch?v=wHM7RVk3-yk)
 

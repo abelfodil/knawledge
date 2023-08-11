@@ -9,8 +9,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1691796919718,
-      "created": 1691796919718,
+      "updated": 1691797937339,
+      "created": 1691797937340,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -732,7 +732,7 @@
       "id": "1jJuES40PJF5ZYLpKAnya",
       "title": "Networks",
       "desc": "",
-      "updated": 1691796572173,
+      "updated": 1691797198301,
       "created": 1611589580411,
       "custom": {},
       "fname": "swe.net",
@@ -740,9 +740,26 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "f3f045739ed404ca4c25943becd57920",
+      "contentHash": "cd9b17b0316310dcd75ab990139368d0",
       "links": [],
-      "anchors": {},
+      "anchors": {
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "guides": {
+          "type": "header",
+          "text": "Guides",
+          "value": "guides",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
       "children": [],
       "parent": "n8BuZfJPxpKglyVZQRTjp",
       "data": {}
@@ -943,7 +960,7 @@
       "id": "ujlAym2HXofxpwdvswQRx",
       "title": "Rust",
       "desc": "",
-      "updated": 1681072147615,
+      "updated": 1691797519969,
       "created": 1627041531737,
       "custom": {},
       "fname": "swe.lang.rust",
@@ -951,7 +968,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "2f48f5fc77a25e63e329b1b27a7b4909",
+      "contentHash": "e65493843749afe4a8b23abd5f464d41",
       "links": [],
       "anchors": {},
       "children": [],
@@ -962,7 +979,7 @@
       "id": "qqlBYG88Qf6mD70ECiHmb",
       "title": "Python",
       "desc": "",
-      "updated": 1633806465955,
+      "updated": 1691797334287,
       "created": 1611453559958,
       "custom": {},
       "fname": "swe.lang.python",
@@ -970,7 +987,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "a929a91bf0d80d20324fc976690798d8",
+      "contentHash": "eefb23bfd6b9999bfbed3c7cc356a054",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1038,7 +1055,7 @@
       "id": "K0Ee5OQMxZCNvF7IQ6hsM",
       "title": "Compilers",
       "desc": "",
-      "updated": 1613586230650,
+      "updated": 1691797790197,
       "created": 1611453066997,
       "custom": {},
       "fname": "swe.lang.compilers",
@@ -1046,22 +1063,22 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "d6a998415959b8d4ffaf2733b5d5e9c4",
+      "contentHash": "5d3c098b3151ce24f8352a3f72bc1f11",
       "links": [],
       "anchors": {
-        "frontend": {
+        "guides": {
           "type": "header",
-          "text": "Frontend",
-          "value": "frontend",
+          "text": "Guides",
+          "value": "guides",
           "line": 8,
           "column": 0,
           "depth": 2
         },
-        "optimization": {
+        "blogs": {
           "type": "header",
-          "text": "Optimization",
-          "value": "optimization",
-          "line": 14,
+          "text": "Blogs",
+          "value": "blogs",
+          "line": 20,
           "column": 0,
           "depth": 2
         },
@@ -1069,7 +1086,7 @@
           "type": "header",
           "text": "Tools",
           "value": "tools",
-          "line": 22,
+          "line": 24,
           "column": 0,
           "depth": 2
         }
@@ -1704,7 +1721,7 @@
       "id": "NFjK3rTcAF3p1qKyqCWAi",
       "title": "Negotiation",
       "desc": "",
-      "updated": 1611589215577,
+      "updated": 1691797106356,
       "created": 1611454047492,
       "custom": {},
       "fname": "social.nego",
@@ -1712,7 +1729,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "08ee6a669a50137fc7e6cda3e87f5e00",
+      "contentHash": "ebd0047143e1914379bc022faa040d74",
       "links": [],
       "anchors": {
         "salary": {
