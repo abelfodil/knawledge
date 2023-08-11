@@ -4,3 +4,5 @@
 - [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
   
 - [The little book about OS development](https://littleosbook.github.io/)
+
+- [Putting the “You” in CPU](https://cpu.land/)

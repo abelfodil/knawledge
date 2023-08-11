@@ -1,16 +1,24 @@
 
-- [How to search and download unpopular and old files on the internet](https://medium.com/@ValdikSS/how-to-search-and-download-unpopular-and-old-files-on-the-internet-e5947ef507ba)
-
-- [FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
+## Sites
 
 - [eimusic](https://eimusics.com/)
 
 - [AudioBook Bay](https://audiobookbay.li/)
 
+- [Library Genesis](https://libgen.rs/)
+
+## Forums
+
+- [Divisions by zero: piracy](https://lemmy.dbzer0.com/c/piracy)
+
 - [Snahp](https://fora.snahp.eu/)
 
-- [Yggtorrent](https://www6.yggtorrent.lol/)
+- [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
 
-- [nyaa](https://nyaa.si/)
+- [r/Piracy](https://www.reddit.com/r/Piracy/wiki/megathread/)
 
-- [Library Genesis](https://libgen.rs/)
+## Guides
+
+- [How to search and download unpopular and old files on the internet](https://medium.com/@ValdikSS/how-to-search-and-download-unpopular-and-old-files-on-the-internet-e5947ef507ba)
+
+- [A Guideline to usenet and how to setup Automation.](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/edit)

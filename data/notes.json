@@ -9,8 +9,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1691426738466,
-      "created": 1691426738466,
+      "updated": 1691796919718,
+      "created": 1691796919718,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -456,7 +456,7 @@
       "id": "RM9pXGYZ4EUKX0MpAeAPl",
       "title": "Piracy",
       "desc": "",
-      "updated": 1676946841112,
+      "updated": 1691796162876,
       "created": 1613588068676,
       "custom": {},
       "fname": "swe.security.piracy",
@@ -464,9 +464,34 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "aa08d380ec5fc6c1e4e982e362a1ae11",
+      "contentHash": "eb76f2772bf7a5c4b14b33017e295cce",
       "links": [],
-      "anchors": {},
+      "anchors": {
+        "sites": {
+          "type": "header",
+          "text": "Sites",
+          "value": "sites",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "forums": {
+          "type": "header",
+          "text": "Forums",
+          "value": "forums",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "guides": {
+          "type": "header",
+          "text": "Guides",
+          "value": "guides",
+          "line": 26,
+          "column": 0,
+          "depth": 2
+        }
+      },
       "children": [],
       "parent": "e8f19c53-17df-4285-bd90-f21dae6b08f9",
       "data": {}
@@ -669,7 +694,7 @@
       "id": "1ubuts1fOv2Beq6a2k71N",
       "title": "Kernel",
       "desc": "",
-      "updated": 1613418302386,
+      "updated": 1691796792729,
       "created": 1611453844612,
       "custom": {},
       "fname": "swe.os.kernel",
@@ -677,7 +702,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "42018d8a12c60703b80a1c774544a04e",
+      "contentHash": "1580b9aef00e1c01a8d0fa222b8680e2",
       "links": [],
       "anchors": {},
       "children": [],
@@ -707,7 +732,7 @@
       "id": "1jJuES40PJF5ZYLpKAnya",
       "title": "Networks",
       "desc": "",
-      "updated": 1627040818238,
+      "updated": 1691796572173,
       "created": 1611589580411,
       "custom": {},
       "fname": "swe.net",
@@ -715,7 +740,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "2f69f25f697f4953dd96f33b1fc67b05",
+      "contentHash": "f3f045739ed404ca4c25943becd57920",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1259,7 +1284,7 @@
       "id": "NLkX8ic2OdZ5vBOomHXWf",
       "title": "Kubernetes",
       "desc": "",
-      "updated": 1691418220518,
+      "updated": 1691796721224,
       "created": 1630865176202,
       "custom": {},
       "fname": "swe.devops.k8s",
@@ -1267,7 +1292,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "11d4b86c4c7ded3a85bb7a2709c891e2",
+      "contentHash": "ee100a05009e7fc2990ab1467913c9d9",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1980,7 +2005,7 @@
       "id": "NLNzJ1DerDE0ROIbD4sAE",
       "title": "Electrical engineering",
       "desc": "",
-      "updated": 1627181174898,
+      "updated": 1691796601617,
       "created": 1613586573227,
       "custom": {},
       "fname": "hw.ee",
@@ -1988,7 +2013,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "32a5fbf2f702132181881b7f08537a7b",
+      "contentHash": "e6ea250fb4160cea5a082814f8d18871",
       "links": [],
       "anchors": {},
       "children": [],

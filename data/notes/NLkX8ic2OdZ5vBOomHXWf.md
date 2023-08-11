@@ -11,3 +11,5 @@
   - [Remove resource finalizer](https://kubernetes.io/blog/2021/05/14/using-finalizers-to-control-deletion/#understanding-finalizers)
   - [Patch finalizer](https://stackoverflow.com/a/52012367)
   - [Use `helm install --replace`](https://github.com/helm/helm/issues/2014#issuecomment-282061264)
+
+- [Kubebuilder book](https://book.kubebuilder.io/)
