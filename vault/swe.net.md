@@ -2,7 +2,7 @@
 id: 1jJuES40PJF5ZYLpKAnya
 title: Networks
 desc: ''
-updated: 1627040818238
+updated: 1691796572173
 created: 1611589580411
 ---
 
@@ -21,3 +21,5 @@ created: 1611589580411
 - [Ethernet and IP Networking 101 (Heavily Illustrated)](https://iximiuz.com/en/posts/computer-networking-101/)
 
 - [How do Mesh VPNs work? Writing my own VPN tool in Golang to find out](https://www.samlewis.me/2021/07/creating-mesh-vpn-tool-for-fun/)
+
+- [Introduction to Linux interfaces for virtual networking](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking#)
