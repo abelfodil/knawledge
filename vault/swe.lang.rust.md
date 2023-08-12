@@ -2,7 +2,7 @@
 id: ujlAym2HXofxpwdvswQRx
 title: Rust
 desc: ''
-updated: 1691797519969
+updated: 1691802380721
 created: 1627041531737
 ---
 
@@ -15,3 +15,5 @@ created: 1627041531737
 - [Tree Borrows](https://perso.crans.org/vanille/treebor/)
 
 - [Putting the stack back into Stacked Borrows](https://www.ralfj.de/blog/2019/05/21/stacked-borrows-2.1.html)
+
+- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
