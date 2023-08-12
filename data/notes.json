@@ -9,8 +9,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1691797937339,
-      "created": 1691797937340,
+      "updated": 1691802506740,
+      "created": 1691802506740,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -960,7 +960,7 @@
       "id": "ujlAym2HXofxpwdvswQRx",
       "title": "Rust",
       "desc": "",
-      "updated": 1691797519969,
+      "updated": 1691802380721,
       "created": 1627041531737,
       "custom": {},
       "fname": "swe.lang.rust",
@@ -968,7 +968,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "e65493843749afe4a8b23abd5f464d41",
+      "contentHash": "4a999964f487d84149549b1a201644ad",
       "links": [],
       "anchors": {},
       "children": [],
