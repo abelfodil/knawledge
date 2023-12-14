@@ -1,4 +1,9 @@
 
+- Hibernate with encrypted swapfile:
+   - https://wiki.archlinux.org/title/dm-crypt/Swap_encryption#Using_a_swap_file
+   - https://wiki.archlinux.org/title/Swap#Swap_file
+   - https://wiki.archlinux.org/title/Power_management/Suspend_and_hibernate#Hibernation_into_swap_file
+
 - [TIL: eBPF is awesome](https://filipnikolovski.com/posts/ebpf/)
 
 - [What's in a Linux executable?](https://fasterthanli.me/series/making-our-own-executable-packer/part-1)
