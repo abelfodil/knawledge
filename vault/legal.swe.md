@@ -2,7 +2,7 @@
 id: x10pC9efbgLnz8h2VvvD1
 title: Software Engineering
 desc: ''
-updated: 1613587311169
+updated: 1703043884471
 created: 1611455720254
 ---
 
@@ -13,3 +13,5 @@ created: 1611455720254
 - [Software Development Agreement Template](https://www.pandadoc.com/software-development-agreement-template/)
 
 - [Against the Law: Countering Lawful Abuses of Digital Surveillance](https://www.tjoe.org/pub/direct-radio-introspection/release/2)
+
+- [What's patentable about software?](https://www.dlapiperaccelerate.com/knowledge/2017/whats-patentable-about-software.html)

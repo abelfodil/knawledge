@@ -2,7 +2,7 @@
 id: 1jJuES40PJF5ZYLpKAnya
 title: Networks
 desc: ''
-updated: 1691797198301
+updated: 1703042320508
 created: 1611589580411
 ---
 
@@ -29,3 +29,5 @@ created: 1611589580411
 - [How do Mesh VPNs work? Writing my own VPN tool in Golang to find out](https://www.samlewis.me/2021/07/creating-mesh-vpn-tool-for-fun/)
 
 - [Introduction to Linux interfaces for virtual networking](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking#)
+
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)

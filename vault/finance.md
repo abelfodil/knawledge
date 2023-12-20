@@ -2,7 +2,7 @@
 id: thAX41R0fOO8BSUHhDvaU
 title: Finance
 desc: ''
-updated: 1617573928777
+updated: 1703042283006
 created: 1611452687411
 ---
 
@@ -22,3 +22,6 @@ created: 1611452687411
 
 - Exchange-traded fund (ETF)
 
+# Debunks
+
+- [John T. Reed's analysis of Robert T. Kiyosaki's book Rich Dad, Poor Dad, Part 1](https://johntreed.com/blogs/john-t-reed-s-real-estate-investment-blog/61651011-john-t-reeds-analysis-of-robert-t-kiyosakis-book-rich-dad-poor-dad-part-1)

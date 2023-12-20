@@ -2,7 +2,7 @@
 id: Nz7p15DcLloUHh0SGSxlE
 title: Performance
 desc: ''
-updated: 1611598984034
+updated: 1703044113237
 created: 1611452868685
 ---
 
@@ -11,3 +11,5 @@ created: 1611452868685
 - [A tale of Query Optimization](https://parallelthoughts.xyz/2019/05/a-tale-of-query-optimization/)
 
 - [Major performance (I/O?) issue in /mnt/* and in ~ (home)](https://github.com/Microsoft/WSL/issues/873)
+
+- [Performance Patterns](https://hpc-wiki.info/hpc/Performance_Patterns)

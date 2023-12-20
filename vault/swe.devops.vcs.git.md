@@ -2,7 +2,7 @@
 id: mL9L3ZiXdwnuEZunhYoN2
 title: Git
 desc: ''
-updated: 1624917720336
+updated: 1703042422700
 created: 1611440033104
 ---
 
@@ -21,6 +21,8 @@ created: 1611440033104
 # Internals
 
 - [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
+
+- [Git was built in 5 days](https://graphite.dev/blog/understanding-git)
 
 # Use cases
 
