@@ -6,3 +6,5 @@
 - [Don't use functions as callbacks unless they're designed for it](https://jakearchibald.com/2021/function-callback-risks/)
 
 - [Redux Patterns and Anti-Patterns](https://tech.affirm.com/redux-patterns-and-anti-patterns-7d80ef3d53bc)
+
+- [Let’s Create a Lightweight Native Event Bus in JavaScript](https://css-tricks.com/lets-create-a-lightweight-native-event-bus-in-javascript/)

@@ -9,8 +9,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1702533077445,
-      "created": 1702533077445,
+      "updated": 1703044582049,
+      "created": 1703044582049,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -46,6 +46,7 @@
         }
       },
       "children": [
+        "xql8h65w776gk18am3wvpcx",
         "thAX41R0fOO8BSUHhDvaU",
         "179c8a89-18d9-4547-91b5-bd75b4f67943",
         "uanadJrtnC6LyZ4urPQlx",
@@ -54,6 +55,7 @@
         "oKfVMD8j5rCWEPLivdBUA",
         "MwEH6bvafg0Zi0Y5uKXoi",
         "AZXSb7LnXxxxpv6GKUpsm",
+        "ksm68lknhkc5yg51xq94bor",
         "86AO8vubg2fi9WmUYCKxe",
         "2f86d282-eb80-45f6-8cf9-0fd6e64fed50",
         "n8BuZfJPxpKglyVZQRTjp"
@@ -127,7 +129,7 @@
       "id": "MefrRMkMrJNDtwD3HMhcY",
       "title": "JavaScript",
       "desc": "",
-      "updated": 1613579726831,
+      "updated": 1703044355591,
       "created": 1611454657955,
       "custom": {},
       "fname": "swe.web.js",
@@ -135,7 +137,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "4ddeb6420fdcc2380a5d5745e93e1336",
+      "contentHash": "820639671fee5426895f955fcaf04987",
       "links": [],
       "anchors": {},
       "children": [],
@@ -593,7 +595,7 @@
       "id": "Nz7p15DcLloUHh0SGSxlE",
       "title": "Performance",
       "desc": "",
-      "updated": 1611598984034,
+      "updated": 1703044113237,
       "created": 1611452868685,
       "custom": {},
       "fname": "swe.perf",
@@ -601,7 +603,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "1e31c2159f6390133511648d3483e2f5",
+      "contentHash": "687170f25a7dad31f96f95ed9af36ecb",
       "links": [],
       "anchors": {},
       "children": [],
@@ -732,7 +734,7 @@
       "id": "1jJuES40PJF5ZYLpKAnya",
       "title": "Networks",
       "desc": "",
-      "updated": 1691797198301,
+      "updated": 1703042320508,
       "created": 1611589580411,
       "custom": {},
       "fname": "swe.net",
@@ -740,7 +742,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "cd9b17b0316310dcd75ab990139368d0",
+      "contentHash": "9cca2d0a86898afb98fb07e20b4a8b69",
       "links": [],
       "anchors": {
         "tools": {
@@ -857,7 +859,7 @@
       "id": "xbtvfw3qg1srb0bab9q73dx",
       "title": "Training",
       "desc": "",
-      "updated": 1691418319103,
+      "updated": 1703044406095,
       "created": 1691418300754,
       "custom": {},
       "fname": "swe.ml.train",
@@ -865,7 +867,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "eb672f57561262a8376eddccc10b747b",
+      "contentHash": "5c73518c50da6b7a85ebb5ba66be6f83",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1156,7 +1158,7 @@
       "id": "709de725-8a5e-47da-aa80-dd261137580d",
       "title": "Devops",
       "desc": "",
-      "updated": 1613587768855,
+      "updated": 1703042372078,
       "created": 1611507722260,
       "custom": {},
       "fname": "swe.devops",
@@ -1164,15 +1166,15 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "450503cc080ba6c56c5a7afb80d7a8d5",
+      "contentHash": "3212e152ce1e29cbbcfe3dfa9111556a",
       "links": [],
       "anchors": {},
       "children": [
         "owWhXhkxMZgBO9Km3ByXN",
         "R5pLJUANa1gSkVJ4JQaDT",
+        "q4Kav00hRli2tI7zcTkd8",
         "NLkX8ic2OdZ5vBOomHXWf",
         "IBNAM9Z15HgzaCI2s8wKG",
-        "q4Kav00hRli2tI7zcTkd8",
         "bcecf1a9-0472-447c-aae4-3eee96970707"
       ],
       "parent": "n8BuZfJPxpKglyVZQRTjp",
@@ -1203,7 +1205,7 @@
       "id": "mL9L3ZiXdwnuEZunhYoN2",
       "title": "Git",
       "desc": "",
-      "updated": 1624917720336,
+      "updated": 1703042422700,
       "created": 1611440033104,
       "custom": {},
       "fname": "swe.devops.vcs.git",
@@ -1211,7 +1213,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "e40d38b21732c587acc5eda05300cc9c",
+      "contentHash": "93a4b714a1dfbab84af0e13b26aa51ce",
       "links": [],
       "anchors": {
         "guidelines": {
@@ -1242,7 +1244,7 @@
           "type": "header",
           "text": "Use cases",
           "value": "use-cases",
-          "line": 24,
+          "line": 26,
           "column": 0,
           "depth": 1
         },
@@ -1250,32 +1252,13 @@
           "type": "header",
           "text": "Tools",
           "value": "tools",
-          "line": 32,
+          "line": 34,
           "column": 0,
           "depth": 1
         }
       },
       "children": [],
       "parent": "bcecf1a9-0472-447c-aae4-3eee96970707",
-      "data": {}
-    },
-    "q4Kav00hRli2tI7zcTkd8": {
-      "id": "q4Kav00hRli2tI7zcTkd8",
-      "title": "Tools",
-      "desc": "",
-      "updated": 1613586933302,
-      "created": 1613586921624,
-      "custom": {},
-      "fname": "swe.devops.tools",
-      "type": "note",
-      "vault": {
-        "fsPath": "vault"
-      },
-      "contentHash": "117d0533b7becee9431a772dd623be96",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "709de725-8a5e-47da-aa80-dd261137580d",
       "data": {}
     },
     "IBNAM9Z15HgzaCI2s8wKG": {
@@ -1310,6 +1293,25 @@
         "fsPath": "vault"
       },
       "contentHash": "ee100a05009e7fc2990ab1467913c9d9",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "709de725-8a5e-47da-aa80-dd261137580d",
+      "data": {}
+    },
+    "q4Kav00hRli2tI7zcTkd8": {
+      "id": "q4Kav00hRli2tI7zcTkd8",
+      "title": "Infrastructure as code",
+      "desc": "",
+      "updated": 1703043216744,
+      "created": 1613586921624,
+      "custom": {},
+      "fname": "swe.devops.iac",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "0dded1c75d80b0c2cbb0705c9c32aabc",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1702,7 +1704,7 @@
       "id": "MRhOMnnsgH3imstn7HBVd",
       "title": "Software Engineering",
       "desc": "",
-      "updated": 1611589218233,
+      "updated": 1703044477877,
       "created": 1611453783094,
       "custom": {},
       "fname": "social.swe",
@@ -1710,7 +1712,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "9f815f705a804e77831e9d31d425e53d",
+      "contentHash": "ddb8b86c2b48d237503b4d4441969e70",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1758,6 +1760,25 @@
         "fsPath": "vault"
       },
       "contentHash": "260361660a855e517aa25dd00944b249",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "UkKRKk3ltMslhTtjYkCiN",
+      "data": {}
+    },
+    "ksm68lknhkc5yg51xq94bor": {
+      "id": "ksm68lknhkc5yg51xq94bor",
+      "title": "Politics",
+      "desc": "",
+      "updated": 1703043398403,
+      "created": 1703043380846,
+      "custom": {},
+      "fname": "politics",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "4f9600e2c624482ead2f84f40f86a661",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1943,7 +1964,7 @@
       "id": "x10pC9efbgLnz8h2VvvD1",
       "title": "Software Engineering",
       "desc": "",
-      "updated": 1613587311169,
+      "updated": 1703043884471,
       "created": 1611455720254,
       "custom": {},
       "fname": "legal.swe",
@@ -1951,7 +1972,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "86685c44b13a890d0bf70b2d8c4aa7eb",
+      "contentHash": "d05b3ae56cf4f3f6813fef12c361b487",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1962,7 +1983,7 @@
       "id": "thcm8O4BKQxu8EvMsgW6w",
       "title": "Quebec",
       "desc": "",
-      "updated": 1611589199147,
+      "updated": 1703043354524,
       "created": 1611455530708,
       "custom": {},
       "fname": "legal.qc",
@@ -1970,7 +1991,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "fb9d1abf0ab4c70bbbceaeac6b2f61f0",
+      "contentHash": "b65f145e6fcc8c03da2032cd457a01ea",
       "links": [],
       "anchors": {},
       "children": [],
@@ -2000,7 +2021,7 @@
       "id": "uanadJrtnC6LyZ4urPQlx",
       "title": "Hardware",
       "desc": "",
-      "updated": 1615915874811,
+      "updated": 1703042187251,
       "created": 1615915754612,
       "custom": {},
       "fname": "hw",
@@ -2008,7 +2029,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "bec10ecc74c8ba68942cda69920161d9",
+      "contentHash": "1b505552ee7c61aafb45510044f461ea",
       "links": [],
       "anchors": {},
       "children": [
@@ -2263,7 +2284,7 @@
       "id": "thAX41R0fOO8BSUHhDvaU",
       "title": "Finance",
       "desc": "",
-      "updated": 1617573928777,
+      "updated": 1703042283006,
       "created": 1611452687411,
       "custom": {},
       "fname": "finance",
@@ -2271,7 +2292,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "9201690e7266478600a8bdb5b0682844",
+      "contentHash": "90e4dccea709d63605e15ec5fa5cece9",
       "links": [],
       "anchors": {
         "tutorials": {
@@ -2289,8 +2310,35 @@
           "line": 18,
           "column": 0,
           "depth": 1
+        },
+        "debunks": {
+          "type": "header",
+          "text": "Debunks",
+          "value": "debunks",
+          "line": 24,
+          "column": 0,
+          "depth": 1
         }
       },
+      "children": [],
+      "parent": "UkKRKk3ltMslhTtjYkCiN",
+      "data": {}
+    },
+    "xql8h65w776gk18am3wvpcx": {
+      "id": "xql8h65w776gk18am3wvpcx",
+      "title": "Busines",
+      "desc": "",
+      "updated": 1703043500782,
+      "created": 1703043487899,
+      "custom": {},
+      "fname": "business",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "41d4920166d6c70990176876c2e1f3fc",
+      "links": [],
+      "anchors": {},
       "children": [],
       "parent": "UkKRKk3ltMslhTtjYkCiN",
       "data": {}
@@ -2325,6 +2373,7 @@
         }
       },
       "children": [
+        "xql8h65w776gk18am3wvpcx",
         "thAX41R0fOO8BSUHhDvaU",
         "179c8a89-18d9-4547-91b5-bd75b4f67943",
         "uanadJrtnC6LyZ4urPQlx",
@@ -2333,6 +2382,7 @@
         "oKfVMD8j5rCWEPLivdBUA",
         "MwEH6bvafg0Zi0Y5uKXoi",
         "AZXSb7LnXxxxpv6GKUpsm",
+        "ksm68lknhkc5yg51xq94bor",
         "86AO8vubg2fi9WmUYCKxe",
         "2f86d282-eb80-45f6-8cf9-0fd6e64fed50",
         "n8BuZfJPxpKglyVZQRTjp"
@@ -2370,6 +2420,7 @@
       }
     },
     "children": [
+      "xql8h65w776gk18am3wvpcx",
       "thAX41R0fOO8BSUHhDvaU",
       "179c8a89-18d9-4547-91b5-bd75b4f67943",
       "uanadJrtnC6LyZ4urPQlx",
@@ -2378,6 +2429,7 @@
       "oKfVMD8j5rCWEPLivdBUA",
       "MwEH6bvafg0Zi0Y5uKXoi",
       "AZXSb7LnXxxxpv6GKUpsm",
+      "ksm68lknhkc5yg51xq94bor",
       "86AO8vubg2fi9WmUYCKxe",
       "2f86d282-eb80-45f6-8cf9-0fd6e64fed50",
       "n8BuZfJPxpKglyVZQRTjp"

@@ -4,3 +4,5 @@
 - [A tale of Query Optimization](https://parallelthoughts.xyz/2019/05/a-tale-of-query-optimization/)
 
 - [Major performance (I/O?) issue in /mnt/* and in ~ (home)](https://github.com/Microsoft/WSL/issues/873)
+
+- [Performance Patterns](https://hpc-wiki.info/hpc/Performance_Patterns)

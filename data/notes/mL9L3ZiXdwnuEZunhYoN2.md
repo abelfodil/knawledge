@@ -15,6 +15,8 @@
 
 - [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
 
+- [Git was built in 5 days](https://graphite.dev/blog/understanding-git)
+
 # Use cases
 
 - [Keep file in a Git repo, but don't track changes](https://stackoverflow.com/a/17410119)

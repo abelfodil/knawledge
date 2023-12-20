@@ -15,3 +15,6 @@
 
 - Exchange-traded fund (ETF)
 
+# Debunks
+
+- [John T. Reed's analysis of Robert T. Kiyosaki's book Rich Dad, Poor Dad, Part 1](https://johntreed.com/blogs/john-t-reed-s-real-estate-investment-blog/61651011-john-t-reeds-analysis-of-robert-t-kiyosakis-book-rich-dad-poor-dad-part-1)
