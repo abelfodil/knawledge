@@ -1,7 +1,8 @@
 {
   "version": 5,
   "dev": {
-    "enablePreviewV2": true
+    "enablePreviewV2": true,
+    "enableExportPodV2": true
   },
   "commands": {
     "lookup": {

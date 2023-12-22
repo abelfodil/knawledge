@@ -1,5 +1,4 @@
-
-# Tutorials
+## Tutorials
 
 - [4 Popular “Theta Gang” Strategies to Collect Premium from Options](https://einvestingforbeginners.com/theta-gang-strategies/)
 
@@ -9,12 +8,13 @@
 
 - [Should You Be Factor Investing?](https://www.youtube.com/watch?v=ViTnIebSzj4)
 
-# Concepts
+## Concepts
 
 - Index fund
 
 - Exchange-traded fund (ETF)
 
-# Debunks
+## Debunks
 
 - [John T. Reed's analysis of Robert T. Kiyosaki's book Rich Dad, Poor Dad, Part 1](https://johntreed.com/blogs/john-t-reed-s-real-estate-investment-blog/61651011-john-t-reeds-analysis-of-robert-t-kiyosakis-book-rich-dad-poor-dad-part-1)
+

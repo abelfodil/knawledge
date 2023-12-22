@@ -9,8 +9,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1703194129428,
-      "created": 1703194129428,
+      "updated": 1703209334185,
+      "created": 1703209334185,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -33,7 +33,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "1fa4103188b459403af1e9cead9141d6",
+      "contentHash": "4c54b3ff7e48fc4aee3aa8897d0815eb",
       "links": [],
       "anchors": {
         "welcome-to-dendron": {
@@ -42,7 +42,7 @@
           "value": "welcome-to-dendron",
           "line": 7,
           "column": 0,
-          "depth": 1
+          "depth": 2
         }
       },
       "children": [
@@ -69,15 +69,13 @@
       "desc": "",
       "updated": 1681073213443,
       "created": 1611457060960,
-      "custom": {
-        "stub": false
-      },
+      "custom": {},
       "fname": "swe",
       "type": "note",
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "0d1e1474e10fa9ad90dd1560ce9ceff2",
+      "contentHash": "92ca10d469535dd9e54586bf429de1aa",
       "links": [],
       "anchors": {},
       "children": [
@@ -188,15 +186,13 @@
       "desc": "",
       "updated": 1611453952587,
       "created": 1611453704212,
-      "custom": {
-        "stub": false
-      },
+      "custom": {},
       "fname": "swe.val",
       "type": "note",
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "52e8ca025397dad371a15c825a2d280e",
+      "contentHash": "8329e58ed7595251730c020d5299ffae",
       "links": [],
       "anchors": {},
       "children": [
@@ -333,7 +329,7 @@
       "id": "RE7wp8rG4ovxQ1WflAft3",
       "title": "Reverse engineering",
       "desc": "",
-      "updated": 1691418865554,
+      "updated": 1703205032921,
       "created": 1611589897956,
       "custom": {},
       "fname": "swe.security.reverse",
@@ -341,7 +337,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "be295b293acaac996cb02b31de833899",
+      "contentHash": "29abdeea39050345943b20cd8efad7b7",
       "links": [],
       "anchors": {
         "challenges": {
@@ -350,7 +346,7 @@
           "value": "challenges",
           "line": 8,
           "column": 0,
-          "depth": 1
+          "depth": 2
         },
         "posts": {
           "type": "header",
@@ -358,7 +354,7 @@
           "value": "posts",
           "line": 12,
           "column": 0,
-          "depth": 1
+          "depth": 2
         },
         "tutorials": {
           "type": "header",
@@ -366,7 +362,7 @@
           "value": "tutorials",
           "line": 22,
           "column": 0,
-          "depth": 1
+          "depth": 2
         },
         "tools": {
           "type": "header",
@@ -374,7 +370,7 @@
           "value": "tools",
           "line": 26,
           "column": 0,
-          "depth": 1
+          "depth": 2
         }
       },
       "children": [
@@ -387,7 +383,7 @@
       "id": "VxLDY4ORyREPmjsRZ1Qcg",
       "title": "Ghidra",
       "desc": "",
-      "updated": 1617579372921,
+      "updated": 1703205024326,
       "created": 1617579101179,
       "custom": {},
       "fname": "swe.security.reverse.ghidra",
@@ -395,40 +391,40 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "5e0321d3a224083dbbee75bb3e1afd17",
+      "contentHash": "bfc55517b0b0331273825521597e2794",
       "links": [],
       "anchors": {
         "tutorials": {
           "type": "header",
           "text": "Tutorials",
           "value": "tutorials",
-          "line": 8,
+          "line": 7,
           "column": 0,
-          "depth": 1
+          "depth": 2
         },
         "random": {
           "type": "header",
           "text": "Random",
           "value": "random",
-          "line": 14,
+          "line": 13,
           "column": 0,
-          "depth": 1
+          "depth": 2
         },
         "scripts": {
           "type": "header",
           "text": "Scripts",
           "value": "scripts",
-          "line": 18,
+          "line": 17,
           "column": 0,
-          "depth": 1
+          "depth": 2
         },
         "plugins": {
           "type": "header",
           "text": "Plugins",
           "value": "plugins",
-          "line": 24,
+          "line": 23,
           "column": 0,
-          "depth": 1
+          "depth": 2
         }
       },
       "children": [],
@@ -502,7 +498,7 @@
       "id": "VPWHlzz4oBEuilHffFzby",
       "title": "Penetration testing",
       "desc": "",
-      "updated": 1691419031162,
+      "updated": 1703204775667,
       "created": 1611590925386,
       "custom": {},
       "fname": "swe.security.pentest",
@@ -510,24 +506,24 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "f1967ab960283f2356ce9e1f075d0497",
+      "contentHash": "ad4c793b5a937f763f62a4352eb87d3c",
       "links": [],
       "anchors": {
         "blogs": {
           "type": "header",
           "text": "Blogs",
           "value": "blogs",
-          "line": 8,
+          "line": 7,
           "column": 0,
-          "depth": 1
+          "depth": 2
         },
         "databases": {
           "type": "header",
           "text": "Databases",
           "value": "databases",
-          "line": 32,
+          "line": 31,
           "column": 0,
-          "depth": 1
+          "depth": 2
         }
       },
       "children": [],
@@ -1205,7 +1201,7 @@
       "id": "mL9L3ZiXdwnuEZunhYoN2",
       "title": "Git",
       "desc": "",
-      "updated": 1703042422700,
+      "updated": 1703204998410,
       "created": 1611440033104,
       "custom": {},
       "fname": "swe.devops.vcs.git",
@@ -1213,48 +1209,48 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "93a4b714a1dfbab84af0e13b26aa51ce",
+      "contentHash": "175cfabe7c59a351d503b4698df9c43c",
       "links": [],
       "anchors": {
         "guidelines": {
           "type": "header",
           "text": "Guidelines",
           "value": "guidelines",
-          "line": 8,
+          "line": 7,
           "column": 0,
-          "depth": 1
+          "depth": 2
         },
         "tutorials": {
           "type": "header",
           "text": "Tutorials",
           "value": "tutorials",
-          "line": 12,
+          "line": 11,
           "column": 0,
-          "depth": 1
+          "depth": 2
         },
         "internals": {
           "type": "header",
           "text": "Internals",
           "value": "internals",
-          "line": 20,
+          "line": 19,
           "column": 0,
-          "depth": 1
+          "depth": 2
         },
         "use-cases": {
           "type": "header",
           "text": "Use cases",
           "value": "use-cases",
-          "line": 26,
+          "line": 25,
           "column": 0,
-          "depth": 1
+          "depth": 2
         },
         "tools": {
           "type": "header",
           "text": "Tools",
           "value": "tools",
-          "line": 34,
+          "line": 33,
           "column": 0,
-          "depth": 1
+          "depth": 2
         }
       },
       "children": [],
@@ -1820,24 +1816,24 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "60f90024c86e5862387872ed0a3f2bf7",
+      "contentHash": "4fee4e4794e7c3b1672b08e497745442",
       "links": [],
       "anchors": {
         "field-related": {
           "type": "header",
           "text": "Field-related",
           "value": "field-related",
-          "line": 8,
+          "line": 7,
           "column": 0,
-          "depth": 1
+          "depth": 2
         },
         "productivity": {
           "type": "header",
           "text": "Productivity",
           "value": "productivity",
-          "line": 15,
+          "line": 14,
           "column": 0,
-          "depth": 1
+          "depth": 2
         }
       },
       "children": [],
@@ -1856,16 +1852,16 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "db7bd232faa39d8f9ae3fd5584e63233",
+      "contentHash": "eafc9eda304683dfb63e51601b228421",
       "links": [],
       "anchors": {
         "basic": {
           "type": "header",
           "text": "Basic",
           "value": "basic",
-          "line": 8,
+          "line": 7,
           "column": 0,
-          "depth": 1
+          "depth": 2
         }
       },
       "children": [],
@@ -1941,16 +1937,16 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "9e2058f35ebc83bb8b638e964392116d",
+      "contentHash": "1ace41697c823ed896e0a923d28cdf1e",
       "links": [],
       "anchors": {
         "concepts": {
           "type": "header",
           "text": "Concepts",
           "value": "concepts",
-          "line": 8,
+          "line": 7,
           "column": 0,
-          "depth": 1
+          "depth": 2
         }
       },
       "children": [
@@ -2002,7 +1998,7 @@
       "id": "P4Qc8W2D4TVaYDoLnlhXI",
       "title": "Language",
       "desc": "",
-      "updated": 1611589194766,
+      "updated": 1703205182860,
       "created": 1611455297557,
       "custom": {},
       "fname": "lang",
@@ -2010,7 +2006,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "9cecf74ec72c60cf5b53a68a56cada27",
+      "contentHash": "a30c83ce73cb79d444ef6b06b03e38b1",
       "links": [],
       "anchors": {},
       "children": [],
@@ -2104,7 +2100,7 @@
       "id": "l3VyifIWqs0uykIlqKofc",
       "title": "Models",
       "desc": "",
-      "updated": 1626982557728,
+      "updated": 1703204900771,
       "created": 1615915833807,
       "custom": {},
       "fname": "hw.3d.models",
@@ -2112,32 +2108,32 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "a280c95d33e1055461f5190653d425a4",
+      "contentHash": "bd05d295be3ac1f6e6813eac8323b3a9",
       "links": [],
       "anchors": {
         "printer-upgrades": {
           "type": "header",
           "text": "Printer upgrades",
           "value": "printer-upgrades",
-          "line": 8,
+          "line": 7,
           "column": 0,
-          "depth": 1
+          "depth": 2
         },
         "cr-10": {
           "type": "header",
           "text": "CR-10",
           "value": "cr-10",
-          "line": 10,
+          "line": 9,
           "column": 0,
-          "depth": 2
+          "depth": 3
         },
         "miscellaneous": {
           "type": "header",
           "text": "Miscellaneous",
           "value": "miscellaneous",
-          "line": 20,
+          "line": 19,
           "column": 0,
-          "depth": 1
+          "depth": 2
         }
       },
       "children": [],
@@ -2284,7 +2280,7 @@
       "id": "thAX41R0fOO8BSUHhDvaU",
       "title": "Finance",
       "desc": "",
-      "updated": 1703042283006,
+      "updated": 1703204695132,
       "created": 1611452687411,
       "custom": {},
       "fname": "finance",
@@ -2292,32 +2288,32 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "90e4dccea709d63605e15ec5fa5cece9",
+      "contentHash": "06868c96620433670f2177c84a3f8c01",
       "links": [],
       "anchors": {
         "tutorials": {
           "type": "header",
           "text": "Tutorials",
           "value": "tutorials",
-          "line": 8,
+          "line": 7,
           "column": 0,
-          "depth": 1
+          "depth": 2
         },
         "concepts": {
           "type": "header",
           "text": "Concepts",
           "value": "concepts",
-          "line": 18,
+          "line": 17,
           "column": 0,
-          "depth": 1
+          "depth": 2
         },
         "debunks": {
           "type": "header",
           "text": "Debunks",
           "value": "debunks",
-          "line": 24,
+          "line": 23,
           "column": 0,
-          "depth": 1
+          "depth": 2
         }
       },
       "children": [],
@@ -2326,9 +2322,9 @@
     },
     "xql8h65w776gk18am3wvpcx": {
       "id": "xql8h65w776gk18am3wvpcx",
-      "title": "Busines",
+      "title": "Business",
       "desc": "",
-      "updated": 1703043500782,
+      "updated": 1703204752310,
       "created": 1703043487899,
       "custom": {},
       "fname": "business",
@@ -2336,7 +2332,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "41d4920166d6c70990176876c2e1f3fc",
+      "contentHash": "1226a2de5e2097c47c93ceeae665f84d",
       "links": [],
       "anchors": {},
       "children": [],
@@ -2360,7 +2356,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "1fa4103188b459403af1e9cead9141d6",
+      "contentHash": "4c54b3ff7e48fc4aee3aa8897d0815eb",
       "links": [],
       "anchors": {
         "welcome-to-dendron": {
@@ -2369,7 +2365,7 @@
           "value": "welcome-to-dendron",
           "line": 7,
           "column": 0,
-          "depth": 1
+          "depth": 2
         }
       },
       "children": [
@@ -2389,7 +2385,7 @@
       ],
       "parent": null,
       "data": {},
-      "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top. \n"
+      "body": "## Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top. \n\n"
     }
   ],
   "noteIndex": {
@@ -2407,7 +2403,7 @@
     "vault": {
       "fsPath": "vault"
     },
-    "contentHash": "1fa4103188b459403af1e9cead9141d6",
+    "contentHash": "4c54b3ff7e48fc4aee3aa8897d0815eb",
     "links": [],
     "anchors": {
       "welcome-to-dendron": {
@@ -2416,7 +2412,7 @@
         "value": "welcome-to-dendron",
         "line": 7,
         "column": 0,
-        "depth": 1
+        "depth": 2
       }
     },
     "children": [
@@ -2436,7 +2432,7 @@
     ],
     "parent": null,
     "data": {},
-    "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top. \n"
+    "body": "## Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top. \n\n"
   },
   "vaults": [
     {

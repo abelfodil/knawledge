@@ -1,7 +1,6 @@
+## Printer upgrades
 
-# Printer upgrades
-
-## CR-10
+### CR-10
 
 - [CR-10 tool holder](https://www.thingiverse.com/thing:2921333)
 
@@ -11,7 +10,7 @@
 
 - [CR-10 Adjustable Z-axis Stepper + Damper Bracket (Remix)](https://www.thingiverse.com/thing:2806395)
 
-# Miscellaneous
+## Miscellaneous
 
 - [T-Nut M3 screw](https://www.thingiverse.com/thing:1655599)
 
@@ -20,3 +19,4 @@
 - [Wearable Chopsticks](https://www.thingiverse.com/thing:4804998)
 
 - [USB Cable Holder](https://www.thingiverse.com/thing:3022893)
+
