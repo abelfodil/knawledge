@@ -1,8 +1,8 @@
 ---
 id: xql8h65w776gk18am3wvpcx
-title: Busines
+title: Business
 desc: ''
-updated: 1703043500782
+updated: 1703204752310
 created: 1703043487899
 ---
 

@@ -5,7 +5,7 @@ desc: ''
 updated: 1680986310682
 created: 1611507722237
 ---
-
-# Concepts
+## Concepts
 
 - [Jurisimprudence](https://schott.blogs.nytimes.com/2010/05/31/jurisimprudence/)
+
